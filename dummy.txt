@@ -72,6 +72,7 @@ update_wc() {
 
 
 
+
 if [ "$is_bare" = "false" ]
 then
     active_branch=`git symbolic-ref HEAD`
