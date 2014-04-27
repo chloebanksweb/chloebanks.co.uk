@@ -70,6 +70,8 @@ update_wc() {
     git reset --hard HEAD)
 }
 
+
+
 if [ "$is_bare" = "false" ]
 then
     active_branch=`git symbolic-ref HEAD`
