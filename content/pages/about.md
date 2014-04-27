@@ -3,7 +3,7 @@ title: "About Me"
 url: "/about"
 ---
 
-I'm [Chloe](http://madebythepotter.blogspot.com) and I'm super gorgeous and cool.
+I'm [Chloe](http://madebythepotter.blogspot.com) and I'm super gorgeous and cool and freaking awesome.
 
 You'll love me.
 
