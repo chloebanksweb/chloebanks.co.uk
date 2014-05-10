@@ -186,3 +186,35 @@ h1#title {
 #main h4 {
     color: #6a4a3c;
 }
+
+@media screen and (max-width: 960px) {
+    #main {
+        width: 90%;
+    }
+}
+
+@media screen and (max-width: 720px) {
+    #top {
+        height: auto;
+        width: 95%;
+        text-align: center;
+    }
+    #top #pic {
+        float: none;
+        margin: 10px auto;
+    }
+    #top h1 {
+        font-size: 40px;
+    }
+
+    #nav ul li a {
+        float: none;
+        text-align: left;
+        height: 30px;
+        background-image: none;
+    }
+    #menu {
+        height: auto;
+    }
+
+}
