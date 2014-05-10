@@ -13,7 +13,8 @@ h1, h3 {
 h1 {
     font-weight: 400;
 }
-#front h1 {
+#front h1,
+#top h1 {
     font-size: 105px;
     color: #fff;
     margin: 0;
@@ -46,21 +47,25 @@ h2 {
     text-align: left;
 }
 
-#intro ul {
+#intro ul,
+#nav ul {
     list-style: none;
     margin: 0 40px 0 0;
     text-align: right;
     width: 220px;
     float: left;
-    padding: 10px 40px 10px 0;
+    padding: 25px 40px 10px 0;
 }
 
 #intro ul li {
     padding: 6px 0;
 }
 
-#intro ul li a {
+#intro ul li a,
+#nav ul li a {
     font-family: 'Bitter', 'serif';
+}
+#intro ul li a {
     font-size: 28px;
     width: 200px;
 }
@@ -73,13 +78,13 @@ h2 {
 
 #intro p {
     color: #e1e1e1;
-    font-size: 1.4em;
+    font-size: 1.2em;
     line-height: 1.4em;
     letter-spacing: 0px;
     margin: 0.8em 0;
 }
 strong {
-    font-weight: 500;
+    font-weight: 700;
 }
 
 a, a:link, a:visited, a:active {
@@ -90,6 +95,94 @@ a:hover {
     text-decoration: underline;
 }
 
+
 body.page {
-    background-position: 0 -357px;
+    background-image: none;
+    background-color: #fff;
+}
+
+#nav {
+    background: url('/img/home_bg.png') repeat-x 0 -387px #00a0b0;
+}
+
+#nav #pic {
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    float: left;
+    margin: 0 20px 0 0;
+}
+
+#top {
+    width: 500px;
+    margin: 0 auto;
+    height: 110px;
+    padding: 20px 0;
+}
+
+#top h1 {
+    font-size: 55px;
+    padding-top: 5px;
+}
+
+#top a:hover {
+    text-decoration: none;
+}
+
+#top h2 {
+    font-size: 31px;
+}
+
+#menu {
+    height: 25px;
+    padding: 20px 0;
+    background: url('/img/navbg.png') #6a4a3c;
+    width: 100%;
+}
+
+#nav ul {
+    text-align: center;
+    width: 700px;
+    margin: 0 auto;
+    padding: 0;
+    float: none;
+}
+
+#nav ul li a {
+    font-size: 21px;
+    padding: 0 30px;
+    display: block;
+    height: 59px;
+    float: left;
+}
+body.about #nav a.about,
+body.taolg #nav a.taolg {
+    background: url('/img/caret.png') no-repeat center bottom transparent;
+}
+
+#main {
+    width: 800px;
+    margin: 0 auto 100px;
+    font-size: 1.2em;
+    line-height: 1.5em;
+}
+
+h1#title {
+    font-size: 2.3em;
+    padding: 35px 0 10px;
+}
+
+#main a,
+#main a:link,
+#main a:active,
+#main a:visited {
+    color: #cc333f;
+}
+
+#main p {
+    margin: 1em 0;
+}
+
+#main h4 {
+    color: #6a4a3c;
 }
