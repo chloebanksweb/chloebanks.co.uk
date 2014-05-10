@@ -6,4 +6,3 @@ builddrafts: false
 indexes:
 baseurl: "http://chloebanks.co.uk/"
 canonifyurls: true
----

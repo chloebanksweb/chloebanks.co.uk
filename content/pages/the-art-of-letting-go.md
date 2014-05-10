@@ -1,0 +1,20 @@
+---
+title: "The Art of Letting Go"
+url: "/the-art-of-letting-go"
+navclass: "taolg"
+---
+
+#### My debut novel is represented by [David Haviland](http://www.andrewlownie.co.uk/about_david) at [The Andrew Lownie Literary Agency](http://www.andrewlownie.co.uk/) and is due for publication shortly.
+
+<em>
+Imagine if the person you hated most in the world was lying in a coma.<br>
+Imagine if you had to make the decision whether to keep him  alive or let him die.<br>
+Imagine if nobody else knew he was there.<br>
+Imagine if it was even more complicated than that&hellip;
+</em>
+
+To the inhabitants of Brackton, retired physicist Rosemary Blunt is nothing but a respectable recluse. But Rosemary has a secret, and he’s lying in a hospital only a few miles away. Should she let him live, or let him go?
+
+Into the midst of Rosemary’s dilemma comes bohemian artist, Ben. His abstract pictures and fixation with painting God disturb Rosemary, and yet she finds herself unable to keep away. As summer passes and an unlikely friendship develops, it becomes clear that Rosemary is not the only one with something to hide. Nor is she the only one battling the ghosts of the past.
+
+Rosemary and Ben must decide whether to trust each other, choosing between the madness of admitting the truth and the insanity of maintaining their lies. With their lives unravelling around them, can they help each other to confront the past, or are there some secrets too terrible to be told?

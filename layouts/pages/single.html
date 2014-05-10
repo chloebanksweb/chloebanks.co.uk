@@ -1,6 +1,12 @@
-<section id="main">
-    <h1 id="title">{{ .Title }}</h1>
-    <article id="content">
-       {{ .Content }}
-    </article>
-</section>
+{{ template "chrome/header.html" . }}
+<body lang="en" class="page {{ .Params.navclass }}">
+{{ template "chrome/nav.html" . }}
+<div id="main-wrap">
+    <section id="main">
+        <h1 id="title">{{ .Title }}</h1>
+        <article id="content">
+           {{ .Content }}
+        </article>
+    </section>
+</div>
+{{ template "chrome/footer.html" . }}
