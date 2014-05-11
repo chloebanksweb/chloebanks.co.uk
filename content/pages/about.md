@@ -1,6 +1,6 @@
 ---
 title: "The Story So Far"
-url: "/about"
+url: "about"
 navclass: "about"
 ---
 
