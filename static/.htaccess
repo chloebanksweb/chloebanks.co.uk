@@ -1,0 +1,4 @@
+Options +FollowSymLinks
+RewriteEngine on
+RewriteCond %{HTTP_HOST} [.*]\.chloebanks.co.uk$ [NC]
+RewriteRule ^(.*)$ http://chloebanks.co.uk/$1 [R=301,L]
