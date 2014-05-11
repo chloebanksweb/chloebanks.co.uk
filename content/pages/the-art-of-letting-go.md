@@ -1,6 +1,6 @@
 ---
 title: "The Art of Letting Go"
-url: "the-art-of-letting-go"
+url: "/the-art-of-letting-go"
 navclass: "taolg"
 ---
 
