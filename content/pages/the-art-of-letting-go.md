@@ -4,11 +4,13 @@ url: "/the-art-of-letting-go"
 navclass: "taolg"
 ---
 
-#### My debut novel is represented by [David Haviland](http://www.andrewlownie.co.uk/about_david) at [The Andrew Lownie Literary Agency](http://www.andrewlownie.co.uk/) and is due for publication shortly.
+#### My debut novel is now available on Amazon.co.uk. [Buy it in paperback](http://www.amazon.co.uk/The-Art-Letting-Chloe-Banks/dp/191019820X/) or [buy for kindle](http://www.amazon.co.uk/The-Art-Letting-Chloe-Banks-ebook/dp/B00LZRKK9S/). <br>I'm represented by [David Haviland](http://www.andrewlownie.co.uk/about_david) at [The Andrew Lownie Literary Agency](http://www.andrewlownie.co.uk/).
+
+[<img src="/img/taolg-cover.jpg" alt="Buy The Art of Letting Go on Amazon.co.uk" title="Buy The Art of Letting Go on Amazon.co.uk" class="cover-image">](http://www.amazon.co.uk/The-Art-Letting-Chloe-Banks/dp/191019820X/)
 
 <em>
 Imagine if the person you hated most in the world was lying in a coma.<br>
-Imagine if you had to make the decision whether to keep him  alive or let him die.<br>
+Imagine if you had to decide whether to keep him  alive or let him die.<br>
 Imagine if nobody else knew he was there.<br>
 Imagine if it was even more complicated than that&hellip;
 </em>

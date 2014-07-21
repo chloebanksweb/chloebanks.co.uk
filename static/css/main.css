@@ -187,6 +187,15 @@ h1#title {
     color: #6a4a3c;
 }
 
+#main .cover-image {
+    float: right;
+    width: 250px;
+    height: 375px;
+    margin: 0 0 15px 15px;
+    border: 1px solid #fff;
+    box-shadow: 0 3px 5px 0px rgba(50, 50, 50, 0.3);
+}
+
 #footer {
     width: 500px;
     margin: 0 auto 100px;
