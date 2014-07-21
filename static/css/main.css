@@ -170,6 +170,7 @@ body.taolg #nav a.taolg {
 h1#title {
     font-size: 2.3em;
     padding: 35px 0 10px;
+    line-height: 1em;
 }
 
 #main a,
@@ -287,5 +288,9 @@ body.home-page #footer h2 {
     }
     #footer h2 {
         font-size: 25px;
+    }
+    #main .cover-image {
+        margin: 0 auto 15px;
+        float: none;
     }
 }
