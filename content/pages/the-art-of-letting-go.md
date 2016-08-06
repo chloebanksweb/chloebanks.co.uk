@@ -4,9 +4,7 @@ url: "/the-art-of-letting-go"
 navclass: "taolg"
 ---
 
-#### My debut novel is now available on Amazon.co.uk. [Buy it in paperback](http://www.amazon.co.uk/The-Art-Letting-Chloe-Banks/dp/191019820X/) or [buy for kindle](http://www.amazon.co.uk/The-Art-Letting-Chloe-Banks-ebook/dp/B00LZRKK9S/). <br>It has sold over 10,000 copies so far and been a best-seller in Women's Literary Fiction on Amazon.
-
-### The Art of Letting Go is currently shortlisted for the People's Book Prize in both the Debut Author and Fiction categories. <a href="http://bit.ly/vote-for-chloe">Click here to vote for it</a>.
+#### My debut novel is now available on Amazon.co.uk. [Buy it in paperback](http://www.amazon.co.uk/The-Art-Letting-Chloe-Banks/dp/191019820X/) or [buy for kindle](http://www.amazon.co.uk/The-Art-Letting-Chloe-Banks-ebook/dp/B00LZRKK9S/). <br>It has sold over 12,000 copies so far and been a best-seller in Women's Literary Fiction on Amazon. <br>It was shortlisted for the [People's Book Prize](http://www.peoplesbookprize.com/) 2016.
 
 [<img src="/img/taolg-cover.jpg" alt="Buy The Art of Letting Go on Amazon.co.uk" title="Buy The Art of Letting Go on Amazon.co.uk" class="cover-image">](http://www.amazon.co.uk/The-Art-Letting-Chloe-Banks/dp/191019820X/)
 
