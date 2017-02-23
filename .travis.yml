@@ -1,26 +1,24 @@
 language: go
-
 go:
-  - 1.8
-
+- 1.8
 env:
   global:
   - SOURCE_DIR="public"
-
 branches:
   only:
   - master
-
 cache:
   directories:
-  - "$HOME/gopath/bin/"
+  - $HOME/gopath/bin/
 install:
-  - wget https://github.com/spf13/hugo/releases/download/v0.18.1/hugo_0.18.1_Linux-64bit.tar.gz
-  - tar -xvzf hugo_0.18.1_Linux-64bit.tar.gz
-  - cd hugo_0.18.1_linux_amd64
-  - mv hugo_0.18.1_linux_amd64 hugo
-  - mv hugo $HOME/gopath/bin/
-  - cd ..
-
+- wget https://github.com/spf13/hugo/releases/download/v0.18.1/hugo_0.18.1_Linux-64bit.tar.gz
+- tar -xvzf hugo_0.18.1_Linux-64bit.tar.gz
+- cd hugo_0.18.1_linux_amd64
+- mv hugo_0.18.1_linux_amd64 hugo
+- mv hugo $HOME/gopath/bin/
+- cd ..
 script:
 - hugo
+before_install:
+- openssl aes-256-cbc -K $encrypted_9660fd890ffa_key -iv $encrypted_9660fd890ffa_iv
+  -in deploy_rsa.enc -out deploy_rsa -d
