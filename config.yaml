@@ -4,5 +4,5 @@ layoutdir: "layouts"
 publishdir: "public"
 builddrafts: false
 indexes:
-baseurl: "http://chloebanks.co.uk/"
+baseurl: "https://chloebanks.co.uk/"
 canonifyurls: true
