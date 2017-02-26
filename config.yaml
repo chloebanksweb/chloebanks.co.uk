@@ -1,8 +1,7 @@
 ---
-contentdir: "content"
-layoutdir: "layouts"
-publishdir: "public"
-builddrafts: false
-indexes:
-baseurl: "https://chloebanks.co.uk/"
-canonifyurls: true
+baseURL: "https://chloebanks.co.uk/"
+canonifyURLs: true
+metaDataFormat: "yaml"
+taxonomies:
+  tag: "tags"
+  series: "series"
