@@ -1,0 +1,21 @@
+{{ template "partials/header.html" . }}
+<body lang="en" class="page {{ .Params.navclass }}">
+{{ template "partials/nav.html" . }}
+<div id="main-wrap">
+    <section id="main">
+      <h1>{{ .Title }}</h1>
+        {{ range (where .Site.Pages "Type" "posts").GroupByDate "2006" }}
+        <h3>{{ .Key }}</h3>
+
+          {{ range .Pages.GroupByDate "January" }}
+            <h3>{{ .Key }}</h3>
+            <ul>
+              {{ range .Pages }}
+                <li>{{ dateFormat "2" .Date }}: {{ .Title }}</li>
+              {{ end }}
+            </ul>
+          {{ end }}
+        {{ end }}
+    </section>
+</div>
+{{ template "partials/footer.html" . }}

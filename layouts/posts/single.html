@@ -3,10 +3,14 @@
 {{ template "partials/nav.html" . }}
 <div id="main-wrap">
     <section id="main">
-        <h1 id="title">{{ .Title }}</h1>
         <article id="content">
-           {{ .Content }}
+            <h1 id="title">{{ .Title }}</h1>
+            {{ partial "meta.html" . }}
+            {{ .Content }}
         </article>
+    </section>
+    <section class="comments">
+      {{ template "_internal/disqus.html" . }}
     </section>
 </div>
 {{ template "partials/footer.html" . }}

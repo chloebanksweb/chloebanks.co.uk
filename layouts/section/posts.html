@@ -1,0 +1,16 @@
+{{ template "partials/header.html" . }}
+<body lang="en" class="page {{ .Params.navclass }}">
+{{ template "partials/nav.html" . }}
+<div id="main-wrap">
+    <section id="main">
+        {{ range .Paginator.Pages }}
+            {{ .Render "summary" }}
+        {{ end }}
+        {{ if .Paginator.HasNext }}
+            <a class="posts-archive-link" href="{{ .Site.BaseURL }}/posts/archive/">
+              Older Posts &raquo;
+            </a>
+        {{ end }}
+    </section>
+</div>
+{{ template "partials/footer.html" . }}

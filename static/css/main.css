@@ -161,7 +161,8 @@ body.page {
     float: left;
 }
 body.about #nav a.about,
-body.taolg #nav a.taolg {
+body.taolg #nav a.taolg,
+body.blog #nav a.blog {
     background: url('/img/caret.png') no-repeat center bottom transparent;
 }
 
@@ -234,6 +235,35 @@ body.home-page #footer h2 {
     border: 0;
 }
 
+/* Blog Styles */
+h3.post-title {
+  color: #000;
+  font-size: 2em;
+  line-height: 1.1em;
+  margin-bottom: 0.2em;
+}
+a:hover h3.post-title {
+  color: #666;
+  text-decoration: underline;
+}
+
+div.post-meta {
+  text-align: right;
+  color: rgb(162, 112, 91);
+  border-top: 1px solid rgb(221, 221, 221);
+  padding: 10px 0px;
+}
+
+article.post-summary {
+  margin: 0 0 50px;
+}
+
+a.posts-archive-link {
+    font-size: 1.6em;
+    font-weight: 700;
+    text-align: center;
+    display: block;
+}
 
 @media screen and (max-width: 960px) {
     #main, #footer {

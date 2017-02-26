@@ -1,4 +1,4 @@
-{{ template "chrome/header.html" . }}
+{{ template "partials/header.html" . }}
 <body lang="en" class="home-page">
 <section id="front">
     <div id="pic">
@@ -10,7 +10,7 @@
         <ul>
             <li><a href="{{ .Site.BaseURL }}/about/">About</a></li>
             <li><a href="{{ .Site.BaseURL }}/the-art-of-letting-go/">The Art of<br> Letting Go</a></li>
-            <li><a href="http://madebythepotter.blogspot.com">Blog</a></li>
+            <li><a href="{{ .Site.BaseURL }}/posts/">Blog</a></li>
             <li><a href="https://twitter.com/chloetellstales">Twitter</a></li>
         </ul>
         <div id="intro-text">
@@ -36,4 +36,4 @@
         </div>
     </div>
 </section>
-{{ template "chrome/footer.html" . }}
+{{ template "partials/footer.html" . }}
