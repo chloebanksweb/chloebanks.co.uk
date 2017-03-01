@@ -241,6 +241,7 @@ h3.post-title {
   font-size: 2em;
   line-height: 1.1em;
   margin-bottom: 0.2em;
+  margin-top: 1.5em;
 }
 a:hover h3.post-title {
   color: #666;
@@ -249,13 +250,23 @@ a:hover h3.post-title {
 
 div.post-meta {
   text-align: right;
-  color: rgb(162, 112, 91);
-  border-top: 1px solid rgb(221, 221, 221);
-  padding: 10px 0px;
+  color: #999;
+  margin-top: -30px;
+}
+
+span.post-date {
+  display: block;
+  float: right;
+  margin-top: -2em;
+  color: #999;
+}
+
+span.post-tags {
+  float: left;
 }
 
 article.post-summary {
-  margin: 0 0 50px;
+  margin: 0 0 4em;
 }
 
 a.posts-archive-link {

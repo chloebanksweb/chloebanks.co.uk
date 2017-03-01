@@ -11,7 +11,7 @@
             <h3>{{ .Key }}</h3>
             <ul>
               {{ range .Pages }}
-                <li>{{ dateFormat "2" .Date }}: {{ .Title }}</li>
+                <li><span class="day-of-month">{{ dateFormat "2" .Date }}:</span> <a href="{{ .Permalink }}">{{ .Title }}</a></li>
               {{ end }}
             </ul>
           {{ end }}

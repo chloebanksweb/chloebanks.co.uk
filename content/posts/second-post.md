@@ -4,7 +4,7 @@ draft: false
 navclass: "blog"
 series: ""
 tags: [writing, competitions]
-title: "Second Post: One with a Longer Title"
+title: "Second Post: One with a Longer Title That Wraps Onto Two Lines"
 ---
 
 ### Hello there.

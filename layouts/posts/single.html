@@ -5,7 +5,13 @@
     <section id="main">
         <article id="content">
             <h1 id="title">{{ .Title }}</h1>
-            {{ partial "meta.html" . }}
+            <div class="post-meta">
+              {{ dateFormat .Site.Params.DateForm .Date }}
+              <span class="post-tags">Tags:
+                {{ delimit (apply .Params.tags "partial" "tag-link" ".") ", " }}
+              </span>
+            </div>
+
             {{ .Content }}
         </article>
     </section>
