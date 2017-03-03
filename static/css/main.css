@@ -350,6 +350,10 @@ span.date-list-day {
     #main, #footer {
         width: 90%;
     }
+    span.post-date {
+      float: none;
+      margin: 0;
+    }
 }
 
 @media screen and (max-width: 720px) {
@@ -414,5 +418,20 @@ span.date-list-day {
       width: auto;
       float: none;
       margin: 1em 0;
+    }
+
+    h3.date-list-month {
+      float: none;
+    }
+
+    ul.date-list-items {
+      padding: 10px 0;
+    }
+
+    span.date-list-day {
+      width: auto;
+      text-align: left;
+      float: left;
+      clear: left;
     }
 }
