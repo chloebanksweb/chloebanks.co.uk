@@ -6,4 +6,4 @@ title = "Test Thing"
 +++
 Text around an image
 
-![](/uploads/2017/03/03/avatar-cow.jpg){:style="float: right;"}
+{{< figure src="/uploads/2017/03/03/avatar-cow.jpg" title="A Car">}}
