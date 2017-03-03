@@ -3,7 +3,7 @@ date: 2017-01-02T20:34:07Z
 draft: false
 navclass: "blog"
 series: "Shelf Life"
-tags: [writing, stuff]
+tags: [writing, stuff, some other tag, foo, Blurb]
 title: Grumble Jungle
 ---
 

@@ -409,4 +409,10 @@ span.date-list-day {
         margin: 0 auto 15px;
         float: none;
     }
+
+    #content div.post-series {
+      width: auto;
+      float: none;
+      margin: 1em 0;
+    }
 }
