@@ -1,3 +1,4 @@
+{{ $page := . }}
 {{ template "partials/header.html" . }}
 <body lang="en" class="page {{ .Params.navclass }}">
 {{ template "partials/nav.html" . }}
@@ -11,6 +12,19 @@
                 {{ delimit (apply .Params.tags "partial" "tag-link" ".") ", " }}
               </span>
             </div>
+
+            {{ if .Params.Series }}
+              <div class="post-series">
+                <h3>{{ .Params.series }} Series</h3>
+                <ol>
+                  {{ range (index .Site.Taxonomies.series (.Params.series | urlize)).Pages.Reverse }}
+                    <li{{ if eq .UniqueID $page.UniqueID }} class="current"{{ end }}>
+                        <a href="{{ .Permalink }}">{{ .Title }}</a>
+                    </li>
+                  {{ end }}
+                </ol>
+              </div>
+            {{ end }}
 
             {{ .Content }}
         </article>

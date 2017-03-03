@@ -1,0 +1,11 @@
+{{ range .GroupByDate "2006" }}
+  <h3 class="date-list-year">{{ .Key }}</h3>
+  {{ range .Pages.GroupByDate "January" }}
+    <h3 class="date-list-month">{{ .Key }}</h3>
+    <ul class="date-list-items">
+      {{ range .Pages }}
+        <li><span class="date-list-day">{{ dateFormat "2" .Date | humanize }}</span> <a href="{{ .Permalink }}">{{ .Title }}</a></li>
+      {{ end }}
+    </ul>
+  {{ end }}
+{{ end }}

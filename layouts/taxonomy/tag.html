@@ -1,0 +1,12 @@
+{{ template "partials/header.html" . }}
+<body lang="en" class="page blog tag">
+{{ template "partials/nav.html" . }}
+<div id="main-wrap">
+    <section id="main">
+      <h1><span class="tag-about">Posts About</span> {{ .Title }}</h1>
+      {{ with .Data.Pages }}
+        {{ partial "date-list" . }}
+      {{ end }}
+    </section>
+</div>
+{{ template "partials/footer.html" . }}

@@ -1,20 +1,11 @@
 {{ template "partials/header.html" . }}
-<body lang="en" class="page {{ .Params.navclass }}">
+<body lang="en" class="page {{ .Params.navclass }} archive">
 {{ template "partials/nav.html" . }}
 <div id="main-wrap">
     <section id="main">
       <h1>{{ .Title }}</h1>
-        {{ range (where .Site.Pages "Type" "posts").GroupByDate "2006" }}
-        <h3>{{ .Key }}</h3>
-
-          {{ range .Pages.GroupByDate "January" }}
-            <h3>{{ .Key }}</h3>
-            <ul>
-              {{ range .Pages }}
-                <li><span class="day-of-month">{{ dateFormat "2" .Date }}:</span> <a href="{{ .Permalink }}">{{ .Title }}</a></li>
-              {{ end }}
-            </ul>
-          {{ end }}
+        {{ with (where .Site.Pages "Type" "posts") }}
+          {{ partial "date-list" . }}
         {{ end }}
     </section>
 </div>

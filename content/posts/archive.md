@@ -1,5 +1,5 @@
 ---
-title: Older Posts
+title: All Posts
 type: archive
 navclass: blog
 ---
