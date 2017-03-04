@@ -3,10 +3,12 @@
 {{ template "partials/nav.html" . }}
 <div id="main-wrap">
     <section id="main">
-        {{ range .Paginator.Pages }}
+        {{ $pages := (where .Data.Pages "Type" "posts") }}
+        {{ $numPages := len $pages }}
+        {{ range first 5 $pages }}
             {{ .Render "summary" }}
         {{ end }}
-        {{ if .Paginator.HasNext }}
+        {{ if gt $numPages 5 }}
             <a class="posts-archive-link" href="{{ .Site.BaseURL }}/posts/archive/">
               Older Posts &raquo;
             </a>
