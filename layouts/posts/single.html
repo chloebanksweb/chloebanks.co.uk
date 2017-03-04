@@ -8,9 +8,11 @@
             <h1 id="title">{{ .Title }}</h1>
             <div class="post-meta">
               {{ dateFormat .Site.Params.DateForm .Date }}
+              {{ if .Params.tags }}
               <span class="post-tags">Tags:
                 {{ delimit (apply .Params.tags "partial" "tag-link" ".") ", " }}
               </span>
+              {{ end }}
             </div>
 
             {{ if .Params.Series }}
