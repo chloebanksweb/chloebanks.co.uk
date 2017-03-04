@@ -317,6 +317,11 @@ body.blog #content img {
   margin: 1em 0 1em 1em;
 }
 
+section.comments {
+    width: 800px;
+    margin: 0 auto 100px;
+}
+
 /* Date List */
 
 h3.date-list-year {
@@ -347,7 +352,7 @@ span.date-list-day {
 }
 
 @media screen and (max-width: 960px) {
-    #main, #footer {
+    #main, #footer, section.comments {
         width: 90%;
     }
     span.post-date {

@@ -1,5 +1,6 @@
 ---
 baseURL: "https://chloebanks.co.uk/"
+title: "Chloe Banks"
 canonifyURLs: true
 metaDataFormat: "yaml"
 taxonomies:
@@ -8,3 +9,7 @@ taxonomies:
 params:
   DateForm: "2 January 2006"
 paginate: 5
+languageCode: en-gb
+author:
+  name: Chloe Banks
+  email: hellochloe@chloebanks.co.uk
