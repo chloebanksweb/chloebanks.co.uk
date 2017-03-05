@@ -8,11 +8,12 @@
         {{ range first 5 $pages }}
             {{ .Render "summary" }}
         {{ end }}
-        {{ if gt $numPages 5 }}
-            <a class="posts-archive-link" href="{{ .Site.BaseURL }}/posts/archive/">
-              Older Posts &raquo;
-            </a>
-        {{ end }}
+        <div class="posts-archive-link">
+          <a href="{{ .RSSLink }}">RSS</a> |
+          <a href="{{ .Site.BaseURL }}/posts/archive/">
+            Older Posts &raquo;
+          </a>
+        </div>
     </section>
 </div>
 {{ template "partials/footer.html" . }}

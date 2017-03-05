@@ -4,7 +4,7 @@
 <div id="main-wrap">
     <section id="main">
       <h1>{{ .Title }}</h1>
-        {{ with (where (where .Site.Pages "Type" "posts") "Kind" "page") }}
+        {{ with (where .Site.Sections.posts.Pages "Type" "posts") }}
           {{ partial "date-list" . }}
         {{ end }}
     </section>

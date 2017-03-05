@@ -168,7 +168,7 @@ body.blog #nav a.blog {
 
 #main {
     width: 800px;
-    margin: 0 auto 100px;
+    margin: 0 auto 60px;
     font-size: 1.2em;
     line-height: 1.5em;
 }
@@ -270,11 +270,12 @@ article.post-summary {
   margin: 0 0 4em;
 }
 
-a.posts-archive-link {
-    font-size: 1.6em;
-    font-weight: 700;
+div.posts-archive-link {
+    font-size: 1.2em;
+    font-weight: 400;
     text-align: center;
     display: block;
+    margin: 100px 0 0;
 }
 body.tag h1 {
 }
