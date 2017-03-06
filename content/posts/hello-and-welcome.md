@@ -4,7 +4,6 @@ series: ''
 navclass: blog
 title: Hello and Welcome!
 date: '2017-03-06T14:45:21+00:00'
-draft: true
 
 ---
 Welcome to my new blog! If you've followed me across from my old blog (madebythepotter.blogspot.com), thank-you. If you're stumbling across here weary from a journey through cyberspace, you are equally welcome!
