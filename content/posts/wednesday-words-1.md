@@ -8,7 +8,7 @@ date: '2017-03-21T13:58:22+00:00'
 draft: true
 
 ---
-Each Wednesday I present to you a loveable word and what it means. These are words that look or sounds pleasing. This week we are starting the series with...
+Each Wednesday I present to you a loveable word and what it means. These are words that look or sound pleasing. This week we are starting the series with...
 
 **<u>Pugnacious.</u>**
 
