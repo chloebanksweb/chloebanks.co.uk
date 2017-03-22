@@ -1,10 +1,11 @@
 ---
 tags:
-- personal updates, writing life
+- writing life
+- personal updates
 series: ''
 navclass: blog
 title: Failure, Freedom and Fresh Starts
-date: '2017-03-21T14:09:46+00:00'
+date: '2017-03-21T14:09:46Z'
 draft: true
 
 ---
