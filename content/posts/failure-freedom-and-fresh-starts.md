@@ -8,7 +8,7 @@ date: '2017-03-21T14:09:46+00:00'
 draft: true
 
 ---
-Apologies in advance for the length and personal nature of this post, but I thought it was time for an update on what I'm doing. Or, more precisely perhaps, what I'm not doing. That's what has made this post so difficult to write. You see, I'm not really writing a novel.
+Apologies in advance for the length and personal nature of this post, but I thought it was time for an update on what I'm doing. Or, more precisely perhaps, what I'm not doing. That's what has made this post so difficult to write. You see, I'm not really writing a novel. I tried to, I really did. But I'm not.
 
 If you've been following my progress over the last few years (thank-you!) you may remember that I've been trying to write that difficult second novel. After my debut was published in 2014 I've been struggling, not least because in 2014 I had my first son  (followed in 2015 by son number two) and became a full-time mum. I suddenly had to find new ways of working. My writing time was squeezed into naptimes and the gap between putting the boys to bed and doing the washing-up. It wasn't just that I had much less time, it was also that my writing time could be stopped any second - mid-scene, mid-sentence - and I might not be able to pick up where I left off for days. I had to find new ways to keep track of a plot, and force myself to write whenever the boys were asleep, even when severely sleep-deprived. Therefore, when I managed to get a workable second-draft of a novel finished last year, three years after starting to write, I was proud of what I'd achieved. Here's the thing though: I didn't like it very much.
 
