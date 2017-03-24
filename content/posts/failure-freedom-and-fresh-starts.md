@@ -6,7 +6,6 @@ series: ''
 navclass: blog
 title: Failure, Freedom and Fresh Starts
 date: '2017-03-21T14:09:46Z'
-draft: true
 
 ---
 Apologies in advance for the length and personal nature of this post, but I thought it was time for an update on what I'm doing. Or, more precisely perhaps, what I'm not doing. That's what has made this post so difficult to write. You see, I'm not really writing a novel. I tried to, I really did. But I'm not.
