@@ -6,9 +6,7 @@ title: The Road to Little Dribbling - Bill Bryson
 date: '2017-04-03T14:45:00+01:00'
 
 ---
-
-
-I have just finished reading *The Road to Little Dribbling* which is the 20-year follow-up by Bill Bryson to his fabulous book, *Notes from a Small Island.*
+I have just finished reading *The Road to Little Dribbling* which is the 20-year follow-up by Bill Bryson to his fabulous book, *Notes from a Small Island.*
 
 I rather liked this quotation:
 
