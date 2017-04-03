@@ -1,5 +1,7 @@
 ---
-tags: []
+tags:
+- Wednesday words
+- etymology
 series: ''
 navclass: blog
 title: Wednesday Words (3)
