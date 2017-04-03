@@ -13,9 +13,6 @@ Each Wednesday I present to you a loveable word and what it means. These are wor
 
 ### **Dirigible.**
 
-**
-**
-
 This pleasingly bubbly word was suggested by Steph Wetherell. It is an adjective used to describe something that is easily directed or steered. <!--more-->
 
  It is also a noun, meaning a type of airship. I am reliably informed by
