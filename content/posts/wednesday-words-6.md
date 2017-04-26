@@ -5,7 +5,6 @@ series: ''
 navclass: blog
 title: Wednesday Words (6)
 date: '2017-04-26T14:15:37+00:00'
-draft: true
 
 ---
 Each Wednesday I present to you a loveable word and what it means. These are words that look or sound pleasing. This week I bring to you...
