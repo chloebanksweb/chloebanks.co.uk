@@ -11,9 +11,9 @@ date: '2017-05-19T14:59:31+00:00'
 draft: true
 
 ---
-The first post in an occasional series looking at the books on my bookshelves and the bigger story they tell...
+*The first post in an occasional series looking at the books on my bookshelves and the bigger story they tell...*
 
-The Oxford Children’s Book of Famous People was published in 1994 by the  OXFORD UNIVERSITY PRESS. I turned eight-years-old in the October of that year and it must have been given to me as a present at about that time. I had lots of books of facts as a child. They were the sort of thing I read cover-to-cover, sitting cross-legged on my bed. My thirst for knowledge was pretty much insatiable. Most of the books I eventually gave away to charity shops, but this one I kept, partly as a piece of nostalgia to represent all my World Record and Top Ten books, but also because of the memories that come with it.
+*The Oxford Children’s Book of Famous People* was published in 1994 by the  OXFORD UNIVERSITY PRESS. I turned eight-years-old in the October of that year and it must have been given to me as a present at about that time. I had lots of books of facts as a child. They were the sort of thing I read cover-to-cover, sitting cross-legged on my bed. My thirst for knowledge was pretty much insatiable. Most of the books I eventually gave away to charity shops, but this one I kept, partly as a piece of nostalgia to represent all my World Record and Top Ten books, but also because of the memories that come with it.
 
 <!--more-->
 
