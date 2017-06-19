@@ -15,7 +15,7 @@ draft: true
 
 *The books on my bookshelves and the bigger stories they tell...*
 
-![](/uploads/2017/06/19/IMG_1061.jpg)
+![](/uploads/2017/06/19/IMG_1061%20(Small).jpg)
 
 Ulysses by James Joyce was first published in 1922 by SYLVIA BEACH. The edition pictured here was published in 2010 by WORDSWORTH CLASSICS. I read Ulysses as part of the [BBC Big Read Top 100](http://www.bbc.co.uk/arts/bigread/index.shtml). Many of the books on that list became firm favourites of mine; this was never going to be the case with Ulysses. It was a tough read. So tough I had to read a few sections at a time and then read something else to give myself a break. At times it made me feel stupid – I literally couldn’t follow some of the sentences and I needed to read Wikipedia’s outlines of each section just to follow along. When I finally finished I only gave it 3/10 for enjoyment. So why is it important to me?
 <!--more-->
