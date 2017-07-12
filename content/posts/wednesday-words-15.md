@@ -20,10 +20,10 @@ Here were some of the words suggested:
 
 **Pumpernickel** (Catherine Edwards) – bread made for wholemeal rye, associated with Germany (and disgusting in my opinion!)
 
-**Riffle **(Caroline Everall) – to turn something over quickly and casually (I believe it is also a particular method of shuffling cards)
+**Riffle** (Caroline Everall) – to turn something over quickly and casually (I believe it is also a particular method of shuffling cards)
 
-**Giggle **(Caroline Cook) – a light, delighted or silly laugh, often associated with children.
+**Giggle** (Caroline Cook) – a light, delighted or silly laugh, often associated with children.
 
-**Dirigible **(Steph Wetherell) – see [the post](https://chloebanks.co.uk/posts/wednesday-words-3/) I did on this a few weeks ago!
+**Dirigible** (Steph Wetherell) – see [the post](https://chloebanks.co.uk/posts/wednesday-words-3/) I did on this a few weeks ago!
 
 I’m not sure what it is about this sound that we love, but I suspect it is the fact that it is just a little bit silly. It’s the sort of noise you might make at a baby to make them laugh. What are your favourite –ibble/-ickle/-iggle (etc.) words?
