@@ -4,7 +4,6 @@ navclass: blog
 series: ''
 tags: []
 title: In Good Company
-draft: true
 
 ---
 
