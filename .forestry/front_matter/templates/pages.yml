@@ -1,0 +1,8 @@
+---
+hide_body: false
+fields:
+- name: navclass
+  default: ''
+  label: Navclass
+  type: text
+  hidden: false

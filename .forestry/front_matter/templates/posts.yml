@@ -1,0 +1,38 @@
+---
+hide_body: false
+fields:
+- name: title
+  default: All Posts
+  label: Title
+  type: text
+  hidden: false
+- name: type
+  default: posts
+  label: Type
+  type: text
+  hidden: true
+- name: navclass
+  default: blog
+  label: Navclass
+  type: text
+  hidden: false
+- name: date
+  default: 2017-03-04 22:21:19 +0000
+  label: Date
+  type: datetime
+  hidden: false
+- name: series
+  default: ''
+  label: Series
+  type: text
+  hidden: false
+- name: tags
+  default: 
+  label: Tags
+  type: list
+  hidden: false
+- name: draft
+  default: true
+  label: Draft
+  type: boolean
+  hidden: false
