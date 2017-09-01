@@ -7,7 +7,6 @@ tags:
 - punctuation
 - ''
 title: Exclamation!
-draft: true
 
 ---
 
