@@ -10,9 +10,9 @@ title: Exclamation!
 draft: true
 
 ---
-
-
 There was a fun item on the Today Programme this morning about exclamation marks. Specifically it was talking about how Donald Trump uses them all the time in his tweets. People were pretty scathing about the practice, but there was one fact I hadn't come across before that tickled me.
+
+<!--more-->
 
 Did you know that exclamation marks were originally referred to as a 'note of admiration'? They were used specifically to express wonder at something. What a wonderful fact! Marvellous!
 
@@ -23,4 +23,3 @@ The overuse of exclamation marks in prose does irritate me. I try to use as few 
 If you are trying to avoid a task today and need a distraction, there is a [Wikipedia article](https://en.wikipedia.org/wiki/Exclamation_mark) on exclamation marks that has some fun facts. Did you know, for instance, that in printing a ! can be referred to as a slammer? Or that people who speak a type of British slang called Commonwealth Hackish call it a pling? (Or, indeed that there was a type of slang called Commonwealth Hackish?) Well, you do now!
 
 If you want to find the segment on catch-up, it was broadcast about 8:15am on BBC Radio Four today.
-
