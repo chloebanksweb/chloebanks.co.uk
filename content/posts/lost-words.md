@@ -4,7 +4,6 @@ series: ''
 navclass: blog
 title: Lost Words
 date: 2017-09-18 21:04:47 +0000
-draft: true
 
 ---
 There was [a rather splendid article](http://www.bbc.co.uk/news/uk-41266000) on the BBC website a few days ago which highlighted a list researchers have drawn up of 30 words that have been lost to the English language.
