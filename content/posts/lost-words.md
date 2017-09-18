@@ -7,8 +7,6 @@ date: 2017-09-18 21:04:47 +0000
 draft: true
 
 ---
-
-
 There was [a rather splendid article](http://www.bbc.co.uk/news/uk-41266000) on the BBC website a few days ago which highlighted a list researchers have drawn up of 30 words that have been lost to the English language.
 
 These words are, without exception, fabulous. I do hope some of them end up making a comeback. Most of them are so wonderfully literal - a *quacksalver* for a fake doctor, *tremblable* for something that fills you with fear. My favourite two are probably:
