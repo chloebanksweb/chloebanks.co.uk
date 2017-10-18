@@ -7,8 +7,8 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-  pages:
-    default_front_matter_template: pages
   posts:
     default_front_matter_template: posts
+  pages:
+    default_front_matter_template: pages
 version: 0.18.1
