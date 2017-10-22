@@ -1,0 +1,51 @@
+backend:
+  name: git-gateway
+  branch: master
+publish_mode: editorial_workflow
+media_folder: "static/uploads" # Media files will be stored in the repo under static/images/uploads
+public_folder: "/uploads"
+collections:
+  - name: "blog"
+    label: "Blog"
+    folder: "content/posts"
+    create: true
+    slug: "{{slug}}"
+    fields:
+     - label: Navclass
+       name: navclass
+       widget: hidden
+       default: blog
+     - label: Title
+       name: title
+       widget: string
+     - label: Publish Date
+       name: date
+       widget: datetime
+     - label: Series
+       name: series
+       widget: string
+       required: false
+     - label: Tags
+       name: tags
+       widget: list
+       required: false
+     - label: Body
+       name: body
+       widget: markdown
+  - name: "pages"
+    label: "Pages"
+    folder: "content/pages"
+    create: false
+    slug: "{{slug}}"
+    fields:
+     - label: Title
+       name: title
+       widget: string
+     - name: navclass
+       default: blog
+       label: Navclass
+       widget: string
+     - label: Body
+       name: body
+       widget: markdown
+
