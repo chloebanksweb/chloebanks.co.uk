@@ -4,7 +4,6 @@ navclass: blog
 series: ''
 tags: []
 title: Kindle Daily Deal 23rd October
-draft: true
 
 ---
 
