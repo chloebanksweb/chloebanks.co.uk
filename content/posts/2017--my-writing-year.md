@@ -4,7 +4,6 @@ series: ''
 navclass: blog
 title: '2017: My Writing Year'
 date: 2017-12-26 13:43:56 +0000
-draft: true
 
 ---
 2017 has been a writing year unlike any other for me. Mostly because I didn't do very much writing! As a mum to two boys, aged two and three as I write this, life does not present many opportunities for writing. It hasn't been an entirely fallow year however...
