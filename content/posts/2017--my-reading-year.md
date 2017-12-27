@@ -9,13 +9,13 @@ draft: true
 ---
 I may not have done much writing this year, but I have done some reading. Hooray! Still not as much reading as I'd like, but I've read some crackers. In 2017 I've read 21 books. I've given scores for all below, but if you are short on time, the books I most recommend from this year are:
 
-1. If you want fun and intelligent and witty with a twist... DIFFERENT CLASS by Joanne Harris. 
+1. If you want fun and intelligent and witty with a twist... DIFFERENT CLASS by Joanne Harris. This was my best read of the year.
 2. If you want an epic read, huge in both scale and detail and beautifully-written...THE GOLDFINCH by Donna Tartt. 
 3. If you want a thriller with an interesting premise... THE WIDOW by Fiona Barton, or THE OTHER MRS WALKER  by Mary Paulson-Ellis.
-4. 
+4. If you want just an indulgent bunch of ridiculous silliness... PARTNERS IN CRIME by Agatha Christie.
 
   
-\(You will note that I am generous in my scoring - my worst books tend to get around 6 or 7. This is mostly because I tend to be good at avoiding books I'll hate, partly because my tastes are eclectic, and partly because I score on my enjoyment, which is a mixture of how fun it was to read and how beautiful the writing is. Therefore, a beautiful book that wasn't the most fun can still score quite highly with me - as can a book with little literary merit but that made me smile!)
+\(You will note that I am generous in my scoring - my worst books tend to get around 6 or 7. This is mostly because I tend to be good at avoiding books I'll hate, partly because my tastes are eclectic, and partly because I score on my enjoyment, which is a mixture of how fun it was to read and how beautiful the writing is. Therefore, a beautiful book that wasn't the most fun can still score quite highly with me as I appreciate the artistry - as can a book with little literary merit but that made me smile!)
 
 * THE MOTHERS (Brit Bennett). I could tell this came out of a creative writing MFA. Literary and beautiful. A slow burner but I came to love it. 9/10
 * DIFFERENT CLASS (Joanne Harris). Loved this. Even though I knew there was "misdirection" involved, I didn't guess where it came and it was absolutely masterful in its construction. This is the second novel in a series, which I didn't realise until afterwards - and I still loved it. 10/10
@@ -38,3 +38,5 @@ I may not have done much writing this year, but I have done some reading. Hooray
 * THE SHOOTING PARTY (Isabel Colegate). I loved the feel and style of this novel. It was the descriptiveness of Dickens with the sharp social wit of Austen. There were however so many characters I got confused a lot! The climatic event and the way it foreshadowed war was chilling and beautifully done. 8/10
 * BOOK OF UNTRUTHS (Miranda Doyle). Don't often read memoirs but this was good. A mixture of autobiography and thoughts/facts about memory and truth. 8/10
 * THE THREAT LEVEL REMAINS SEVERE (Rowena Macdonald). Mildly interesting but not gripping. I felt the author wanted to show-off her knowledge of parliament rather than just use it to colour her setting. I enjoyed it well enough but it wouldn't make me want to read another by the same author. 7/10
+
+What were your best reads of 2017?
