@@ -26,4 +26,7 @@ I may not have done much writing this year, but I have done some reading. Hooray
 * CLOSED CASKET (Sophie Hannah). Marvellous almost all the way to the end! Found the end a bit of a cop-out otherwise it would've scored top marks. Preferred this to Hannah's first Poirot novel. 9/10
 * THE GOLDFINCH (Donna Tartt). Thought this epic books would take months but it truly captivated me so I kept speeding though. The writing just fills me with awe - modern writing with the detail of Dickens. The last quarter of the book slowed down but until then I was hooked. 9/10
 * SULA (Toni Morrison). This is such an iconic book, I was sure I'd love it. I didn't. The writing was brilliant, of course, but I just didn't find it interesting. Makes me feel very low-brow! 7/10
-* THE WIDOW (Fiona Barton). 
+* THE WIDOW (Fiona Barton). Took me a few chapters to get into this, then zipped through it! Really interesting premise for a thriller. Not super-twisty but I loved the multiple perspectives. 9/10
+* THE SHOOTING PARTY (Isabel Colegate). I loved the feel and style of this novel. It was the descriptiveness of Dickens with the sharp social wit of Austen. There were however so many characters I got confused a lot! The climatic event and the way it foreshadowed war was chilling and beautifully done. 8/10
+* BOOK OF UNTRUTHS (Miranda Doyle). Don't often read memoirs but this was good. A mixture of autobiography and thoughts/facts about memory and truth. 8/10
+* THE THREAT LEVEL REMAINS SEVERE (Rowena Macdonald). Mildly interesting but not gripping. I felt the author wanted to show-off her knowledge of parliament rather than just use it to colour her setting. I enjoyed it well enough but it wouldn't make me want to read another by the same author. 7/10
