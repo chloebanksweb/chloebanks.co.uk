@@ -3,8 +3,7 @@ tags: []
 series: ''
 navclass: blog
 title: '2017: My Reading Year'
-date: 2017-12-26 14:30:10 +0000
-draft: true
+date: 2017-12-30 14:30:10 +0000
 
 ---
 I may not have done much writing this year, but I have done some reading. 22 books to be precise. Here is what I thought of them... 
