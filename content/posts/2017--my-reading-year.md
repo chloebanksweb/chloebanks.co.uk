@@ -7,22 +7,24 @@ date: 2017-12-26 14:30:10 +0000
 draft: true
 
 ---
-I may not have done much writing this year, but I have done some reading. Hooray! Still not as much reading as I'd like, but I've read some crackers. In 2017 I've read 21 books. I've given scores for all below, but if you are short on time, the books I most recommend from this year are:
+I may not have done much writing this year, but I have done some reading. 22 books to be precise. Here is what I thought of them... 
 
-1. If you want fun and intelligent and witty with a twist... DIFFERENT CLASS by Joanne Harris. This was my best read of the year.
-2. If you want an epic read, huge in both scale and detail and beautifully-written...THE GOLDFINCH by Donna Tartt. 
+I've given scores for all below, but if you don't have time for all that detail, the books I most recommend from this year are:
+
+1. If you want fun and intelligent and witty with a twist... DIFFERENT CLASS by Joanne Harris. This was one of my two best reads of the year.
+2. If you want an epic read, huge in both scale and detail and beautifully-written...THE GOLDFINCH by Donna Tartt.
 3. If you want a thriller with an interesting premise... THE WIDOW by Fiona Barton, or THE OTHER MRS WALKER  by Mary Paulson-Ellis.
 4. If you want just an indulgent bunch of ridiculous silliness... PARTNERS IN CRIME by Agatha Christie.
+5. If you want a modern fable, utterly brilliant in it's construction, devastating and savage in it's tone... THE LIFE AND LOVES OF A SHE DEVIL by Fay Weldon. This was my other best read.
 
-  
-\(You will note that I am generous in my scoring - my worst books tend to get around 6 or 7. This is mostly because I tend to be good at avoiding books I'll hate, partly because my tastes are eclectic, and partly because I score on my enjoyment, which is a mixture of how fun it was to read and how beautiful the writing is. Therefore, a beautiful book that wasn't the most fun can still score quite highly with me as I appreciate the artistry - as can a book with little literary merit but that made me smile!)
+Here is the longer version... (You will note that I am generous in my scoring - my worst books tend to get around 6 or 7. This is mostly because I tend to be good at avoiding books I'll hate, partly because my tastes are eclectic, and partly because I score on my enjoyment, which is a mixture of how fun it was to read and how beautiful the writing is. Therefore, a beautiful book that wasn't the most fun can still score quite highly with me as I appreciate the artistry - as can a book with little literary merit but that made me smile!)
 
 * THE MOTHERS (Brit Bennett). I could tell this came out of a creative writing MFA. Literary and beautiful. A slow burner but I came to love it. 9/10
 * DIFFERENT CLASS (Joanne Harris). Loved this. Even though I knew there was "misdirection" involved, I didn't guess where it came and it was absolutely masterful in its construction. This is the second novel in a series, which I didn't realise until afterwards - and I still loved it. 10/10
-* THE LONEY (Andrew Michael Hurley). Another literary one. Stunning writing (winner of the Costa Book Award), but I felt I was missing something. It didn't grab me. Worth reading for the stark beauty of the writing. 7/10
-* THE ROAD TO LITTLE DRIBBLING (Bill Bryson). I was so disappointed in this! NOTES FROM A SMALL ISLAND was one of my favourite books as a teenager and this is the 20-year follow-up. It had so many funny lines and tonnes of interesting facts that rescued it, but the bottom line is that it was too grumpy. Bryson moved from sharp and a little snide to seeming mean-spirited and entitled. Much to like but the joy was taken away for me. 7/10
+* THE LONEY (Andrew Michael Hurley). Another literary one. Stunning, stark writing (winner of the Costa Book Award), but I felt I was missing something. It didn't grab me. 7/10
+* THE ROAD TO LITTLE DRIBBLING (Bill Bryson). I was so disappointed in this! NOTES FROM A SMALL ISLAND was one of my favourite books as a teenager and this is the 20-year follow-up. It had so many funny lines and tonnes of interesting facts that rescued it, but the bottom line is that it was too grumpy. Bryson has moved from sharp and a little snide to seeming mean-spirited and petty. Much to like, but the joy was taken away for me. 7/10
 * PUBLIC LIBRARY (Ali Smith). A mix of short stories and discussions with people about libraries. I felt as if I wasn't sophisticated enough to get this book! It made me think I might like one of Ali Smith's novels, but the only thing I enjoyed a lot here was the quality of the writing, not its contents. 6/10
-* A TINY BIT MARVELLOUS (Dawn French). This was bright and fun. Well-written rather than beautifully-written and not a page turner but I had a lot of fun escaping with this one. 8/10
+* A TINY BIT MARVELLOUS (Dawn French). This was bright and fun. Well-written rather than beautifully-written, and not a page turner but I had a lot of fun escaping with this one. 8/10
 * BECOMING REVEREND (Rev. Matt Woodward). Read this for research - the diaries of a man training to be a vicar. I love diary-style books so I did enjoy this a bit, but the author was surprisingly unlikeable! 7/10
 * MY NAME IS LUCY BARTON (Elizabeth Strout). Very Booker Prize. Lovely writing and compelling voice but low on plot and a vague ending. I enjoyed it at the time but found it unmemorable. 8/10
 * THIS HOLEY LIFE (Sophie Duffy). I enjoyed this. I found the tone of the book sometimes shifted a bit rapidly for me, or a point was a bit laboured but I loved reading "women's fiction" that was thoughtful. 8/10
@@ -38,5 +40,6 @@ I may not have done much writing this year, but I have done some reading. Hooray
 * THE SHOOTING PARTY (Isabel Colegate). I loved the feel and style of this novel. It was the descriptiveness of Dickens with the sharp social wit of Austen. There were however so many characters I got confused a lot! The climatic event and the way it foreshadowed war was chilling and beautifully done. 8/10
 * BOOK OF UNTRUTHS (Miranda Doyle). Don't often read memoirs but this was good. A mixture of autobiography and thoughts/facts about memory and truth. 8/10
 * THE THREAT LEVEL REMAINS SEVERE (Rowena Macdonald). Mildly interesting but not gripping. I felt the author wanted to show-off her knowledge of parliament rather than just use it to colour her setting. I enjoyed it well enough but it wouldn't make me want to read another by the same author. 7/10
+* THE LIFE AND LOVES OF A SHE DEVIL (Fay Weldon). Amazing. It reads like a modern fable - savage, macabre, ridiculous and utterly, utterly brilliant. 10/10
 
 What were your best reads of 2017?
