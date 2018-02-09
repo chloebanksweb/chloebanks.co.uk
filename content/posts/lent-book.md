@@ -4,7 +4,6 @@ series: ''
 navclass: blog
 title: Lent Book
 date: 2018-02-09 13:28:36 +0000
-draft: true
 
 ---
 I am glad to announce that my short story, _Thad_, has just been published in NEW LIFE: REFLECTIONS FOR LENT (Association of Christian Writers, 2018). 
