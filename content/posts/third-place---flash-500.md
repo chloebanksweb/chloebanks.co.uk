@@ -7,7 +7,6 @@ series: ''
 navclass: blog
 title: Third Place - Flash 500
 date: 2018-02-13 13:56:30 +0000
-draft: true
 
 ---
 I'm pleased to be able to say that my piece of flash fiction, _Words_, has won third prize in Flash 500 (4th Quarter, 2017).
