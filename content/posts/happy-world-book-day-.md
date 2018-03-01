@@ -28,4 +28,10 @@ So these aren't necessarily my top books of all time, but here are 12 books I th
 
 7 - _Oh The Places You'll Go_ by Dr. Seuss. The master storyteller at his finest, quirkiest and most inspirations. Should be compulsory reading in all schools. Read this if you like: _Winnie-the-Pooh_ crossed with _The Cat in the Hat_.
 
+8 - _I See You_ by Claire Mackintosh. One of the better reads in the booming psychological thriller genre. Clever idea. Twisty. Read this if you like: _The Girl on the Train_.
+
+9 - _The Life and Loves of a She Devil_ by Faye Weldon. Bitter and brilliant. A modern fable. Feminist, funny and sharp. Read this if you like: Jane Austen on fast-forward.
+
+10 - _The Weight of Glory_ 
+
 ![](/uploads/2018/03/01/IMG_3334.jpg)
