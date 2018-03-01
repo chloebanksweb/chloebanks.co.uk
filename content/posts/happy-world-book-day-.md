@@ -32,8 +32,8 @@ So these aren't necessarily my top books of all time, but here are 10 books I ra
 
 9 - _The Life and Loves of a She Devil_ by Faye Weldon. Bitter and brilliant. A modern fable. Feminist, funny and sharp. Read this if you'd like Jane Austen writing in the 20th-century while slightly tipsy.
 
-10 - _The Weight of Glory_ by CS Lewis. A collection of his finest essays and sermons. The title piece is particularly fine. Read this if you'd like some theology that is deep, to the point and in bite-sized chunks.
+10 - _The Weight of Glory_ by CS Lewis. A collection of his finest essays and sermons. The title piece is particularly brilliant. Read this if you'd like some theology that is deep, to the point and in bite-sized chunks.
 
-So there you go... apocalyptic fiction, coming-of-age tales, cosy crime, classic Russian literature, twisted page-turners, quirky humour, inspirational children's books, psychological thrillers, razor sharp fables and deep theology. And if none of those take your fancy then you can of course read my novel instead! Art, artifice and madness - _The Art of Letting Go_.
+So there you go... apocalyptic fiction, coming-of-age tales, cosy crime, classic Russian literature, twisted page-turners, quirky humour, inspirational children's books, psychological thrillers, razor sharp fables and deep theology. And if none of those take your fancy then you can of course read my novel instead! Art, artifice and madness - [_The Art of Letting Go_](https://www.amazon.co.uk/Art-Letting-Go-Chloe-Banks-ebook/dp/B00LZRKK9S/ref=sr_1_3?ie=UTF8&qid=1519917375&sr=8-3&keywords=the+art+of+letting+go&dpID=41-ZkbL9xbL&preST=_SY445_QL70_&dpSrc=srch).
 
 ![](/uploads/2018/03/01/IMG_3334.jpg)
