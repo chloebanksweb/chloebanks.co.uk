@@ -12,7 +12,7 @@ Happy World Book Day, friends! I thought it would be fun to recommend a few book
 1. They have to be books physically on the shelves of my house now (which means I've skipped a lot of books I've borrowed or read on Kindle or given away).
 2. They need to be from a broad range of genres.
 
-So these aren't necessarily my top books of all time, but here are 12 books I think you might like...
+So these aren't necessarily my top books of all time, but here are 10 books I think you might like...
 
 1 - _The Stand_, by Stephen King. Epic, apocalyptic and not at all your classic horror story. Read this if you like: _1984_ by George Orwell.
 
@@ -34,6 +34,6 @@ So these aren't necessarily my top books of all time, but here are 12 books I th
 
 10 - _The Weight of Glory_ by CS Lewis. A collection of his finest essays and sermons. The title piece is particularly fine. Read this if you like: _Mere Christianity_.
 
-11 - _Room_ by Emma Donoghue. A well-deserved shortlistee for the Booker. Clasuterphobic, chilling but somehow hopeful. Narrated perfectly by a young child. Read this if you like: 
+So there you go... apocalpsye fiction, coming-of-age, cosy crime, classic Russian literature, twisted page-turner, quirky humour, inspirational children's book, psychological thriller, razor sharp fable and deep theology. And if none of those take your fancy then you can of course read my novel instead! Art, artifice and madness - _The Art of Letting Go_.
 
 ![](/uploads/2018/03/01/IMG_3334.jpg)
