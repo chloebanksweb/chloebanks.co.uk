@@ -4,7 +4,6 @@ series: ''
 navclass: blog
 title: Happy World Book Day!
 date: 2018-03-01 14:26:44 +0000
-draft: true
 
 ---
 Happy World Book Day, friends! I thought it would be fun to recommend a few books that I've loved reading. When deciding which ones to select I hit on two criteria:
@@ -14,7 +13,7 @@ Happy World Book Day, friends! I thought it would be fun to recommend a few book
 
 So these aren't necessarily my top books of all time, but here are 10 books I randomly plucked off my shelves this morning as ones I enjoyed!
 
-1 - _The Stand_, by Stephen King. Epic, apocalyptic and not at all your classic horror story. Read this if you'd like: _1984_ by George Orwell flipped on its head and given a hint of the supernatural.
+1 - _The Stand_, by Stephen King. Epic, apocalyptic and not at all your classic horror story. Read this if you'd like _1984_ by George Orwell flipped on its head and given a hint of the supernatural.
 
 2 - _I Capture the Castle_ by Dodie Smith. A beautiful 1930s coming-of-age tale, but not just for kids and teens. Read this if you'd like a more grown-up version of _The Secret Garden_ by Frances Hodgson Burnett.
 
