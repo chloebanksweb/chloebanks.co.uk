@@ -14,7 +14,7 @@ Happy World Book Day, friends! I thought it would be fun to recommend a few book
 
 So these aren't necessarily my top books of all time, but here are 10 books I randomly plucked off my shelves this morning as ones I enjoyed!
 
-1 - _The Stand_, by Stephen King. Epic, apocalyptic and not at all your classic horror story. Read this if you like: _1984_ by George Orwell.
+1 - _The Stand_, by Stephen King. Epic, apocalyptic and not at all your classic horror story. Read this if you'd like: _1984_ by George Orwell flipped on its head and given a hint of the supernatural.
 
 2 - _I Capture the Castle_ by Dodie Smith. A beautiful 1930s coming-of-age tale, but not just for kids and teens. Read this if you'd like a more grown-up version of _The Secret Garden_ by Frances Hodgson Burnett.
 
@@ -35,5 +35,3 @@ So these aren't necessarily my top books of all time, but here are 10 books I ra
 10 - _The Weight of Glory_ by CS Lewis. A collection of his finest essays and sermons. The title piece is particularly brilliant. Read this if you'd like some theology that is deep, to the point and in bite-sized chunks.
 
 So there you go... apocalyptic fiction, coming-of-age tales, cosy crime, classic Russian literature, twisted page-turners, quirky humour, inspirational children's books, psychological thrillers, razor sharp fables and deep theology. And if none of those take your fancy then you can of course read my novel instead! Art, artifice and madness - [_The Art of Letting Go_](https://www.amazon.co.uk/Art-Letting-Go-Chloe-Banks-ebook/dp/B00LZRKK9S/ref=sr_1_3?ie=UTF8&qid=1519917375&sr=8-3&keywords=the+art+of+letting+go&dpID=41-ZkbL9xbL&preST=_SY445_QL70_&dpSrc=srch).
-
-![](/uploads/2018/03/01/IMG_3334.jpg)
