@@ -26,12 +26,14 @@ So these aren't necessarily my top books of all time, but here are 12 books I th
 
 6 - _The Eyre Affair_ by Jasper Fforde. Brilliant and funny and smart. In a genre all of it's own - quirky magical realism without the magic?! A must-read for people who love literature and want to laugh. Read this if you like: Hmmmm... Tom Holt books maybe? Or just if you are human.
 
-7 - _Oh The Places You'll Go_ by Dr. Seuss. The master storyteller at his finest, quirkiest and most inspirations. Should be compulsory reading in all schools. Read this if you like: _Winnie-the-Pooh_ crossed with _The Cat in the Hat_.
+7 - _Oh The Places You'll Go_ by Dr. Seuss. The master storyteller at his finest, quirkiest and most inspirational. Should be compulsory reading in all schools. Read this if you'd like: _Winnie-the-Pooh_ crossed with _The Cat in the Hat_.
 
 8 - _I See You_ by Claire Mackintosh. One of the better reads in the booming psychological thriller genre. Clever idea. Twisty. Read this if you like: _The Girl on the Train_.
 
-9 - _The Life and Loves of a She Devil_ by Faye Weldon. Bitter and brilliant. A modern fable. Feminist, funny and sharp. Read this if you like: Jane Austen on fast-forward.
+9 - _The Life and Loves of a She Devil_ by Faye Weldon. Bitter and brilliant. A modern fable. Feminist, funny and sharp. Read this if you'd like: Jane Austen writing in the 20th-century while slightly tipsy.
 
-10 - _The Weight of Glory_ 
+10 - _The Weight of Glory_ by CS Lewis. A collection of his finest essays and sermons. The title piece is particularly fine. Read this if you like: _Mere Christianity_.
+
+11 - _Room_ by Emma Donoghue. A well-deserved shortlistee for the Booker. Clasuterphobic, chilling but somehow hopeful. Narrated perfectly by a young child. Read this if you like: 
 
 ![](/uploads/2018/03/01/IMG_3334.jpg)
