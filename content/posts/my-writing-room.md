@@ -7,11 +7,11 @@ date: 2018-03-28 21:59:28 +0000
 draft: true
 
 ---
-I don't often do blog updates as my writing life is somewhat slower than it used to be! I am still slowly working on my next novel - and enjoying it very much, now I've taken any pressure off myself to actually finish it by a certain deadline. I am writing each chapter by hand first. I am amazed at the difference this is making to me creatively! It's brilliant.
+I don't often do blog updates as my writing life is somewhat slower than it used to be. I am still working on my next novel - and enjoying it very much, now I've taken any pressure off myself to actually finish it by a certain deadline. I am writing each chapter by hand first and I am amazed at the difference this is making to me creatively! It's brilliant.
 
-I have one other piece of writing news but I am not allowed to share it yet! I hope to be able to in a couple of weeks.
+I have one exciting piece of writing news but I am not allowed to share it yet! I hope to be able to in a couple of weeks and I can't wait.
 
-That leaves only one thing left on the writing news front... my new writing space. Since our two boys crowded me out of having one of the spare bedrooms to write in, I have made do with my desk being crammed behind the sofa in our living room. No more! 
+That leaves only one thing to tell you about... my new writing space. Since our two boys crowded me out of having one of the spare bedrooms to write in, I have made do with my desk being crammed behind the sofa in our living room. No more! 
 
 Last month we re-did our living room and arranged it so that my workspace is a purposeful part of it. Sure, it's still a corner of the living room, but it is a corner made for me with a new big desk and lovely things to look at. It sounds silly but I swear it has made me much more productive! 
 
