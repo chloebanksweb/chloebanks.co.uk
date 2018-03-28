@@ -4,7 +4,6 @@ series: ''
 navclass: blog
 title: My Writing Room
 date: 2018-03-28 21:59:28 +0000
-draft: true
 
 ---
 I don't often do blog updates as my writing life is somewhat slower than it used to be. I am still working on my next novel - and enjoying it very much, now I've taken any pressure off myself to actually finish it by a certain deadline. I am writing each chapter by hand first and I am amazed at the difference this is making to me creatively! It's brilliant.
