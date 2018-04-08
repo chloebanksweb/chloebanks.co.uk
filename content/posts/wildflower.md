@@ -4,7 +4,6 @@ series: ''
 navclass: blog
 title: Wildflower - Flash Fiction
 date: 2018-04-08 15:49:40 +0000
-draft: true
 
 ---
 My piece of flash fiction, _Wildflower_, [won third prize](https://chloebanks.co.uk/posts/third-prize---ruth-rendell-short-story-competition/) in the Ruth Rendell Short Story Competition. As my story will now be used by [Interact Stroke Support](http://www.interactstrokesupport.org/) as one of the stories that is read by actors to stroke survivors in order to help recover memory and language function, I won't be attempting to publish it elsewhere, so I thought I may as well publish it here. I hope you enjoy reading it.
