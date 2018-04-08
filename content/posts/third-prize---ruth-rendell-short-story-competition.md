@@ -4,7 +4,6 @@ series: ''
 navclass: blog
 title: Third Prize - Ruth Rendell Short Story Competition
 date: 2018-04-08 14:15:59 +0000
-draft: true
 
 ---
 I am delighted to have won third prize in the Ruth Rendell Short Story Competition run by [Interact Stroke Support](http://www.interactstrokesupport.org/). Interact are a fabulous charity who send actors into hospitals and care centres to do dramatic readings of short stories to people recovering from strokes. The benefits to the recovery of memory and language abilities of these survivors are quite wonderful.
