@@ -4,7 +4,6 @@ series: ''
 navclass: blog
 title: May Madness
 date: 2017-03-04 22:21:19 +0000
-draft: true
 
 ---
 I'm excited to say that my novel, [_The Art of Letting Go_](https://amzn.to/2Ib8m66), has been selected by Amazon as part of its May Madness promotion. That means you can get the e-book version for £0.99.
