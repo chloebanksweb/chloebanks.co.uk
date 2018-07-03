@@ -7,3 +7,5 @@ fields:
   label: Navclass
   type: text
   hidden: false
+pages:
+- content/posts/tss-flash-400---highly-commended.md
