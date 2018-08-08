@@ -4,7 +4,6 @@ series: ''
 navclass: blog
 title: 'TSS Flash Publication - Blame: A Summary'
 date: 2017-03-04 22:21:19 +0000
-draft: true
 
 ---
 My highly-commended flash story, _Blame: A Summary_, has been published by the competition organisers [TSS Publishing](https://www.theshortstory.co.uk/).
