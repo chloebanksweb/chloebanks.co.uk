@@ -10,7 +10,3 @@ Some Text above.
 More text below.
 
 Other changes.
-
-
-
-More changes.
