@@ -8,9 +8,9 @@ date: ''
 draft: true
 
 ---
-Happy New Year! This year has been a quiet year of writing for me. Not entirely without success - the three pieces of flash fiction I wrote in the first half of this year came [third in Flash 500](https://chloebanks.co.uk/posts/third-place---flash-500/), third in the [Ruth Rendell Short Story Prize](https://chloebanks.co.uk/posts/third-prize---ruth-rendell-short-story-competition/) (for which I went to a prize-ceremony in London to hear my story read by an actor!) and was [highly commended ](https://chloebanks.co.uk/posts/tss-flash-400---highly-commended/)in the TSS Flash Fiction Competition.
+Happy New Year! This year has been a quiet year of writing for me, although not entirely without success. Three pieces of flash fiction came [third in Flash 500](https://chloebanks.co.uk/posts/third-place---flash-500/), third in the [Ruth Rendell Short Story Prize](https://chloebanks.co.uk/posts/third-prize---ruth-rendell-short-story-competition/) (for which I went to a prize-ceremony in London to hear my story read by an actor!) and [highly commended ](https://chloebanks.co.uk/posts/tss-flash-400---highly-commended/)in the TSS Flash Fiction Competition.
 
-I have spent the rest of the year - the last five months or so - doing something I hadn't planned at all. I have written a novella-in-flash! I don't think I even knew what that was a year ago! It has been so much fun to write and I'm moderately pleased with the draft so that has been a surprise bonus of my year. Even if nothing comes of it, it has caused me to write 18 new stories!
+I have spent the last five months or so doing something I hadn't planned at all. I have written a novella-in-flash! I don't think I even knew what that was a year ago! It has been so much fun to write and I'm moderately pleased with the draft so that has been a surprise bonus of my year. Even if nothing comes of it, it has caused me to write 18 new stories - not something I imagined was possible 12 months ago.
 
 And so, to reading. I have read 26 books this year, and listened to a few more. Some of the books were flash fiction or non-fiction, but most were novels. Here is my 2018 novel-reading list ranked in order from my favourite:
 
@@ -19,7 +19,7 @@ And so, to reading. I have read 26 books this year, and listened to a few more. 
  3. Gentlemen and Players - Joanne Harris
  4. The Muse - Jessie Burton
  5. The Millstone - Margaret Drabble
- 6. Eleanor Oliphant is Completely Fine
+ 6. Eleanor Oliphant is Completely Fine - Gail Honeyman
  7. Larry's Party - Carol Shields
  8. The Last Battle - CS Lewis
  9. The Seven Deaths of Evelyn Hardcastle - Stuart Turton
