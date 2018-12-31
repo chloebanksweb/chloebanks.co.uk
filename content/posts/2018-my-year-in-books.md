@@ -4,7 +4,7 @@ series: ''
 navclass: ''
 type: ''
 title: 2018 - My Year in Books
-date: 2018-12-31 22:00:00 +0000
+date: 2018-12-31 09:00:00 +0000
 
 ---
 Happy New Year! This year has been a quiet year of writing for me, although not entirely without success. Three pieces of flash fiction came [third in Flash 500](https://chloebanks.co.uk/posts/third-place---flash-500/), third in the [Ruth Rendell Short Story Prize](https://chloebanks.co.uk/posts/third-prize---ruth-rendell-short-story-competition/) (for which I went to a prize-ceremony in London to hear my story read by an actor!) and [highly commended ](https://chloebanks.co.uk/posts/tss-flash-400---highly-commended/)in the TSS Flash Fiction Competition.
