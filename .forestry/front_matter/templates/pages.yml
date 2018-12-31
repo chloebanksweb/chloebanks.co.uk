@@ -10,5 +10,6 @@ fields:
   hidden: false
 pages:
 - content/posts/tss-flash-400---highly-commended.md
-- content/pages/about.md
 - content/pages/the-art-of-letting-go.md
+- content/pages/about.md
+- content/posts/young(ish)-and-free(ish).md
