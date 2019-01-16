@@ -3,7 +3,7 @@ tags: []
 series: ''
 navclass: blog
 title: 'Author Interview: Anna Lickley'
-date: 2017-03-04 22:21:19 +0000
+date: 2019-01-18 22:21:19 +0000
 draft: true
 
 ---
