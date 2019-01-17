@@ -3,7 +3,7 @@ tags: []
 series: ''
 navclass: blog
 title: 'Author Interview: Anna Lickley'
-date: 2019-01-18 22:21:19 +0000
+date: 2019-01-17 09:21:19 +0000
 
 ---
 I am delighted today to be able to bring to you a little interview with author Anna Lickley. Anna's debut full-length novel, _Senseless_, was published by Unbound Press this week.
