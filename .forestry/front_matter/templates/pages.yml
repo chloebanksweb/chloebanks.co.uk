@@ -1,7 +1,6 @@
 ---
 label: pages
 hide_body: false
-is_partial: false
 fields:
 - name: navclass
   default: ''
@@ -9,7 +8,7 @@ fields:
   type: text
   hidden: false
 pages:
-- content/posts/tss-flash-400---highly-commended.md
-- content/pages/the-art-of-letting-go.md
-- content/pages/about.md
 - content/posts/young(ish)-and-free(ish).md
+- content/pages/about.md
+- content/pages/the-art-of-letting-go.md
+- content/posts/tss-flash-400---highly-commended.md
