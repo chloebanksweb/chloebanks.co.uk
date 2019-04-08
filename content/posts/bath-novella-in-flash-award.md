@@ -15,4 +15,4 @@ After years of trying to write a second novel and failing miserably at it, _At t
 
 I wasn't one of the winners of the Award, but the associated publishing company have expressed an interest in publishing my novella anyway if I can work on it a little more. I hope to work with the judge of the competition in his role as a writing tutor and editor on working out how to edit it ready for publication. All of which is very exciting!
 
-If you have a futher five minutes indulge me by reading the judge's report on picking the shortlist [here](). It explains how he came to choose our ten novellas and makes me so happy to read! If ever I need to remember that I can sometimes get the right words in the right order, I'm going to read this!
+If you have a futher five minutes indulge me by reading the judge's report on picking the shortlist [here](https://bathflashfictionaward.com/2019/03/novella-in-flash-2019-award-shortlist-report-by-michael-loveday/). It explains how he came to choose our ten novellas and makes me so happy to read! If ever I need to remember that I can sometimes get the right words in the right order, I'm going to read this!
