@@ -3,7 +3,7 @@ tags: []
 series: ''
 navclass: blog
 title: Bath Novella-in-Flash Award
-date: 2017-03-04 22:21:19 +0000
+date: 2019-04-09 14:23:00 +0100
 
 ---
 Last month I was so delighted to have been shortlisted for the Bath Novella-in-Flash award. My novella, _At the Bottom of the Stairs_, was one I wrote over the last half of 2018 and a few weeks after the shortlist was released I am still pinching myself that I was on it! You can read about the overall winners [here](https://bathflashfictionaward.com/2019/03/2019-novella-in-flash-award-results-and-round-up/).
