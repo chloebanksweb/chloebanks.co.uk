@@ -40,6 +40,10 @@ h2 {
     background-color: #fff;
     margin: 0 auto;
 }
+#pic img {
+    width: 200px;
+    height: 200px;
+}
 
 #intro {
     width: 730px;
@@ -116,6 +120,10 @@ body.page {
     padding: 5px;
     float: left;
     margin: 0 20px 0 0;
+}
+#nav #pic img {
+    width: 100px;
+    height: 100px;
 }
 
 #top {
