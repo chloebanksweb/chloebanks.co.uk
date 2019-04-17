@@ -1,38 +1,44 @@
 {{ template "partials/header.html" . }}
-<body lang="en" class="home-page">
-<section id="front">
-    <div id="pic">
-        <img src="{{ .Site.BaseURL }}/img/chloe200.jpg" alt="Chloe Banks">
-    </div>
-    <h1>Chloe Banks</h1>
-    <h2>Day-dreamer and novelist.</h2>
-    <div id="intro">
-        <ul>
-            <li><a href="{{ .Site.BaseURL }}about/">About</a></li>
-            <li><a href="{{ .Site.BaseURL }}the-art-of-letting-go/">The Art of<br> Letting Go</a></li>
-            <li><a href="{{ .Site.BaseURL }}posts/">Blog</a></li>
-            <li><a href="https://twitter.com/chloetellstales">Twitter</a></li>
-        </ul>
-        <div id="intro-text">
-            <p>
-                <strong>Hello!</strong>
-            </p>
-            <p>
-                I am a writer and teller of tales &mdash; some short, some long, some prize-winning.
-            </p>
-            <p>
-                My debut novel, <a href="{{ .Site.BaseURL }}/the-art-of-letting-go/">The Art of Letting Go</a>, is published by Thistle Publishing. You can <a href="http://www.amazon.co.uk/The-Art-Letting-Chloe-Banks/dp/191019820X/">buy it on Amazon.co.uk</a>.
-            </p>
-            <p>
-                <a href="http://www.amazon.co.uk/The-Art-Letting-Chloe-Banks/dp/191019820X/"><img class="cover-image" src="/img/taolg-cover.jpg" alt="Vote for The Art of Letting Go" title="Vote for The Art of Letting Go" class="cover-image"></a>
 
-            </p>
-            <p>
-                Please take a look around the site and feel free to contact me via
-                <a href="https://twitter.com/chloetellstales">twitter</a> or by
-                <a href="mailto:hellochloe@chloebanks.co.uk">e-mail</a>.
-            </p>
+<body lang="en" class="home-page">
+    <section id="front">
+        <div id="pic">
+            <img src="{{ .Site.BaseURL }}/img/chloe400.jpg" alt="Chloe Banks">
         </div>
-    </div>
-</section>
-{{ template "partials/footer.html" . }}
+        <h1>Chloe Banks</h1>
+        <h2>Day-dreamer and writer.</h2>
+        <div id="intro">
+            <ul>
+                <li><a href="{{ .Site.BaseURL }}about/">About</a></li>
+                <li><a href="{{ .Site.BaseURL }}the-art-of-letting-go/">The Art of<br> Letting Go</a></li>
+                <li><a href="{{ .Site.BaseURL }}posts/">Blog</a></li>
+                <li><a href="https://twitter.com/chloetellstales">Twitter</a></li>
+            </ul>
+            <div id="intro-text">
+                <p>
+                    <strong>Hello!</strong>
+                </p>
+                <p>
+                    I am a writer and teller of tales &mdash; some short, some long, some prize-winning.
+                </p>
+                <p>
+                    My debut novel, <a href="{{ .Site.BaseURL }}/the-art-of-letting-go/">The Art of Letting Go</a>, is
+                    published by Thistle Publishing. You can <a
+                        href="http://www.amazon.co.uk/The-Art-Letting-Chloe-Banks/dp/191019820X/">buy it on
+                        Amazon.co.uk</a>.
+                </p>
+                <p>
+                    <a href="http://www.amazon.co.uk/The-Art-Letting-Chloe-Banks/dp/191019820X/"><img
+                            class="cover-image" src="/img/taolg-cover.jpg" alt="Vote for The Art of Letting Go"
+                            title="Vote for The Art of Letting Go" class="cover-image"></a>
+
+                </p>
+                <p>
+                    Please take a look around the site and feel free to contact me via
+                    <a href="https://twitter.com/chloetellstales">twitter</a> or by
+                    <a href="mailto:hellochloe@chloebanks.co.uk">e-mail</a>.
+                </p>
+            </div>
+        </div>
+    </section>
+    {{ template "partials/footer.html" . }}
