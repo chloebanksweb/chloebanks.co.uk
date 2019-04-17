@@ -38,6 +38,7 @@ fields:
   type: boolean
   hidden: false
 pages:
+- content/posts/all-posts.md
 - content/posts/bath-novella-in-flash-award.md
 - content/posts/author-interview-anna-lickley.md
 - content/posts/2018-my-year-in-books.md
