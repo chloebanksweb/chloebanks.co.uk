@@ -3,7 +3,7 @@ tags: []
 series: ''
 navclass: blog
 title: All Posts
-date: 2019-04-17 22:21:19 +0100
+date: 2019-04-17 10:21:19 +0100
 
 ---
 I've made it my mission this year to try submitting my stories for publication in a few of the journals, magazines and zines out there. Although I have had a few pieces published online, they are all a result of entering competitions. I felt it was time to do the very grown-up thing of submitting for publication!
