@@ -2,7 +2,7 @@
 tags: []
 series: ''
 navclass: blog
-title: All Posts
+title: Exchange Rate at Ellipsis Zine
 date: 2019-04-16 10:21:19 +0100
 
 ---
