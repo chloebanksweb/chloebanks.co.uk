@@ -9,6 +9,6 @@ fields:
   hidden: false
 pages:
 - content/pages/about.md
-- content/posts/young(ish)-and-free(ish).md
 - content/pages/the-art-of-letting-go.md
+- content/posts/young(ish)-and-free(ish).md
 - content/posts/tss-flash-400---highly-commended.md
