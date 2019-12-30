@@ -7,7 +7,7 @@ date: 2017-03-04T22:21:19.000+00:00
 draft: true
 
 ---
-Another year done, another bunch of words written, another pile of books read. 
+Another year done, another bunch of words written, another pile of books read.
 
 My writing life is still slow enough that it doesn't warrant an end-of-year post on its own. My two highlights of the year were:
 
@@ -26,15 +26,15 @@ Now on to the good stuff... I have read 33 books this year. I always read quite 
 
 I also read some fabulous non-fiction, including WHEN YOU ARE ENGULFED IN FLAMES  by my favourite essayist, David Sedaris, SOME KIDS I TAUGHT AND WHAT THEY TAUGHT ME by Kate Clanchy ,and the heartbreaking, must-read memoir of a dying doctor, WHEN BREATH BECOMES AIR by Paul Kalanathi. All brilliant.
 
-On to the novels. In chronological order (bearing in mind I choose carefully, but then am very easily pleased and a high-marker when it comes to books!):
+On to the novels. In chronological order:
 
- 1. BLAME - Jeff Abbot 
- 2. THE GARDEN OF SMALL BEGINNINGS - Abbi Waxman 
- 3. EDITH'S DIARY - Patricia Highsmith 
+ 1. BLAME - Jeff Abbot
+ 2. THE GARDEN OF SMALL BEGINNINGS - Abbi Waxman
+ 3. EDITH'S DIARY - Patricia Highsmith
  4. APPLE AND RAIN - Sarah Crossan
- 5. SEE WHAT I HAVE DONE  - Sarah Schmidt 
- 6. OUR ENDLESS NUMBERED DAYS  - Claire Fuller 
- 7. THE MYSTERY OF THE THREE QUARTERS - Sophie Hannah 
+ 5. SEE WHAT I HAVE DONE  - Sarah Schmidt
+ 6. OUR ENDLESS NUMBERED DAYS  - Claire Fuller
+ 7. THE MYSTERY OF THE THREE QUARTERS - Sophie Hannah
  8. KIM - Rudyard Kipling
  9. THE WATER CURE - Sophie Mackintosh
 10. COMING FROM BEHIND  - Howard Jacobson
@@ -51,10 +51,14 @@ On to the novels. In chronological order (bearing in mind I choose carefully, bu
 21. DEATH COMES AS THE END  - Agatha Christie
 22. WHEN GOD WAS A RABBIT - Sarah Winman
 
-Of these, I wasn't too keen on KIM, but the only ones I actively dislike were POSTERN OF FATE and HEART OF DARKNESS. I have been trying to catch up with the Agatha Christie's I don't know but I'm sad I read POSTERN. It was rambling, repetitve, confused and her last book - probably written when she had early-stage dementia. It's interesting that a book about central Africa should be my other least-favourite because my book of the year was also set there and about (among other things) colonialism and missionaries and all sorts of other things I would never have thought I'd enjoy reading about...
+Of these, I wasn't too keen on KIM, but the only ones I actively dislike were POSTERN OF FATE and HEART OF DARKNESS. I have been trying to catch up with the Agatha Christie's I don't already know,but I'm sad I read POSTERN. It was rambling, repetitve and confused. It was also her last book - probably written when she had early-stage dementia. It's interesting that a book about central Africa should be my other least-favourite because my book of the year was also set there and about colonialism and missionaries and all sorts of other things I would never have thought I'd enjoy reading about...
 
-My Book of the Year: THE POISONWOOD BIBLE  by Barbara Kingsolver. So breath-takingly beautiful, I literally had to stop and let some sentences sink in. Interesting and devastating and brilliant.
+**My Book of the Year: THE POISONWOOD BIBLE  by Barbara Kingsolver.** So breath-takingly beautiful, I literally had to stop and let some sentences sink in. Interesting and devastating and brilliant.
 
-Second place goes to MOONRISE by Sarah Crossan. I love Sarah Crossan's free-verse style books. They are so raw and moving and simple. As somebody who campaigns against the death penalty, I found this horrific and gripping and very human.
+**Second place goes to MOONRISE by Sarah Crossan.** I love Sarah Crossan's free-verse style books. They are so raw and moving and simple. As somebody who campaigns against the death penalty, I found this horrific and gripping and very human.
 
-My top three is rounded off by OUR ENDLESS NUMBERED DAYS by Claire Fuller. It is a tense, claustrophobic psychological drama, but not a typical crime or horror book. It has a brilliant premise and is carried out so, so well.
+**My top three is rounded off by OUR ENDLESS NUMBERED DAYS by Claire Fuller.** It is a tense, claustrophobic, psychological drama, but not a typical crime or horror book. It has a brilliant premise and is carried out so, so well.
+
+**Honourable mentions to THE WATER CURE, US, and WHEN GOD WAS A RABBIT.**
+
+There we have it. I have a very exciting pile of books waiting to be read in 2020. What were your top reads of this year?
