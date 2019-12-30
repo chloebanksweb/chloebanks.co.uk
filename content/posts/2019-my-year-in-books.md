@@ -3,7 +3,7 @@ tags: []
 series: ''
 navclass: blog
 title: '2019: My Year in Books'
-date: 2017-03-04T22:21:19.000+00:00
+date: 2019-12-30T22:21:19+00:00
 
 ---
 Another year done, another bunch of words written, another pile of books read.
