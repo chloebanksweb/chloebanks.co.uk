@@ -3,7 +3,7 @@ tags: []
 series: ''
 navclass: blog
 title: Perfect Books
-date: 2017-03-04T22:21:19.000+00:00
+date: 2020-07-23T15:45:19+01:00
 draft: true
 
 ---
