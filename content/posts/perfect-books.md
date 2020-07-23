@@ -4,7 +4,6 @@ series: ''
 navclass: blog
 title: Perfect Books
 date: 2020-07-23T15:45:19+01:00
-draft: true
 
 ---
 For the last eight years I have been keeping a reading diary of all the books I read or listen to. I give each book a mark out of 10 - not for how good they are, but for how much I enjoy them. Some books may be brilliant from a literary point of view, but I don't actually enjoy reading them. Other books definitely leave a little to be desired stylistically but I had a grand time immersed in them. Obviously the quality of the writing does have a big effect on my enjoyment anyway!
