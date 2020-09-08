@@ -8,6 +8,7 @@ fields:
   type: text
   hidden: false
 pages:
+- content/pages/Scripts.md
 - content/pages/about.md
 - content/pages/the-art-of-letting-go.md
 - content/posts/tss-flash-400---highly-commended.md
