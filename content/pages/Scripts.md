@@ -1,6 +1,5 @@
 ---
 navclass: Scripts
-draft: true
 
 ---
 In 2020 I decided to do something I've wanted to do for a long time and have a dabble at writing some scripts. I grew up going to the theatre and I love listening to radio drama so it feels a natural place for me to hang out.
