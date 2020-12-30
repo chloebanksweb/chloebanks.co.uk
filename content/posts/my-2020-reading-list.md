@@ -3,8 +3,7 @@ tags: []
 series: ''
 navclass: blog
 title: My 2020 Reading List
-date: 2020-12-31T00:00:00+00:00
-draft: true
+date: 2020-12-30T00:00:00+00:00
 
 ---
 Time for the end-of-year round up of all the books I've listened to and read in 2020. There are 49 of them - 20 audiobooks and 29 paper/e-books - plus I listened to or read many short stories and stage plays. This was definitely the year when I got back into the joy of audiobooks when doing mundane household tasks!
