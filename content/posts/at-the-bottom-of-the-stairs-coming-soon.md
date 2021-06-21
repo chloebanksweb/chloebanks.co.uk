@@ -6,7 +6,7 @@ title: At the Bottom of the Stairs - Coming Soon!
 date: 2021-06-20T00:00:00+01:00
 
 ---
-I am delighted to say that my novella, _At the Bottom of the Stairs_, is going to be published by Reflex Press next year, having been one of the two runners-up in the Reflex Novella Award.
+I am delighted to say that my novella, _At the Bottom of the Stairs_, is going to be published by Reflex Press next year, having been one of the two runners-up in the [Reflex Novella Award](https://www.reflex.press/novella-award-2021/).
 
 The award had 173 entries from 18 countries, so I am so pleased to be in the top three. _At the Bottom of the Stairs_ is my second book. As it is seven years (and two children!) since I last had a publishing contract, it's been a long time coming!
 
