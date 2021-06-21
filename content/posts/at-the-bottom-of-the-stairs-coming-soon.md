@@ -3,7 +3,7 @@ tags: []
 series: ''
 navclass: blog
 title: At the Bottom of the Stairs - Coming Soon!
-date: 
+date: 2021-06-20T00:00:00+01:00
 
 ---
 I am delighted to say that my novella, _At the Bottom of the Stairs_, is going to be published by Reflex Press next year, having been one of the two runners-up in the Reflex Novella Award.
