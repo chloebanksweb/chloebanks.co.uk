@@ -3,7 +3,7 @@ tags: []
 series: ''
 navclass: blog
 title: Script Writing
-date: 2021-09-23T23:02:00+01:00
+date: 2021-09-23T11:02:00+01:00
 
 ---
 Over the last year and a half I haven't been writing much prose fiction. Partly that is due to a good few bouts of home-schooling my boys! But also, it is because I have - and I'm finally ready to admit this - started writing play scripts.
