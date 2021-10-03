@@ -3,7 +3,7 @@ title: Scripts
 url: /scripts
 navclass: scripts
 ---
-In early 2020, Chloe wrote her first play scripts. She started by adapting her flash
+In 2020, Chloe wrote her first play scripts. She started by adapting her flash
 story, *Exchange Rate* (Ellipsis Zine, 2019) into a monologue, which was
 performed by the fabulous Emma Stansfield (Coronation Street, Jamie Johnson).
 You can [view it here](https://www.youtube.com/watch?v=ZSZz-GFTqDI&t).
