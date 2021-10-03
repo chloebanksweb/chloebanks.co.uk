@@ -1,12 +1,11 @@
 ---
-tags: []
-series: ''
 navclass: blog
 title: Script Writing
 date: 2021-09-23T11:02:00+01:00
-
+series: ""
+tags: []
 ---
-Over the last year and a half I haven't been writing much prose fiction. Partly that is due to a good few bouts of home-schooling my boys! But also, it is because I have - and I'm finally ready to admit this - started writing play scripts.
+Hello the last year and a half I haven't been writing much prose fiction. Partly that is due to a good few bouts of home-schooling my boys! But also, it is because I have - and I'm finally ready to admit this - started writing play scripts.
 
 It's something I've always wanted to do, but felt I had no right to, somehow! Although I went to see a lot of amateur and semi-professional theatre as a kid, it still seemed like an alien world. I didn't know all the correct terminology. How do you format a script? What do you do with it when you're done?
 
