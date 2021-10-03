@@ -169,8 +169,10 @@ body.page {
     float: left;
 }
 body.about #nav a.about,
-body.taolg #nav a.taolg,
-body.blog #nav a.blog {
+body.blog #nav a.news,
+body.books #nav a.books,
+body.scripts #nav a.scripts,
+body.contact #nav a.contact {
     background: url('/img/caret.png') no-repeat center bottom transparent;
 }
 
@@ -347,6 +349,34 @@ section.comments {
     margin: 0 auto 100px;
 }
 
+body.books .books {
+    display: flex;
+}
+body.books .books a {
+    flex: 1;
+    margin-right: 20px;
+}
+body.books .at-the-bottom-of-the-stairs {
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+    height: 376px;
+    width: 250px;
+    padding: 20px;
+    font-size: 1.5em;
+    padding-top: 170px;
+    text-align: center;
+}
+body.books .at-the-bottom-of-the-stairs span {
+    font-size: 0.6em;
+    display: block;
+}
+
+hr {
+    margin: 50px;
+    border: 1px solid #ddd;
+    border-bottom: 0;
+}
+
 /* Date List */
 
 h3.date-list-year {
@@ -434,7 +464,10 @@ span.date-list-day {
         height: 30px;
     }
     body.about #nav a.about,
-    body.taolg #nav a.taolg{
+    body.blog #nav a.news,
+    body.books #nav a.books,
+    body.scripts #nav a.scripts,
+    body.contact #nav a.contact{
         background-image: none;
     }
     #menu {

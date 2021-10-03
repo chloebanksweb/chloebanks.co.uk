@@ -13,3 +13,7 @@ languageCode: en-gb
 author:
   name: Chloe Banks
   email: hellochloe@chloebanks.co.uk
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

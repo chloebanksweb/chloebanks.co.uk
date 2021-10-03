@@ -4,8 +4,19 @@ url: "/the-art-of-letting-go"
 navclass: taolg
 
 ---
-#### My debut novel is now available on Amazon.co.uk. [Buy it in paperback](http://www.amazon.co.uk/The-Art-Letting-Chloe-Banks/dp/191019820X/) or [buy for kindle](http://www.amazon.co.uk/The-Art-Letting-Chloe-Banks-ebook/dp/B00LZRKK9S/).  It was one of the 10 most-read books on Kindle in February 2015 and been a Kindle best-seller in Women's Literary Fiction.  It was shortlisted for the [People's Book Prize](http://www.peoplesbookprize.com/) 2016.
 
+
+_The Art of Letting Go_ was represented by the Andrew Lownie Literary Agency and
+published by Thistle Books in 2014. It was one of the 10 most-read books on
+Kindle in February the following year and has been a Kindle best-seller in
+Women’s Literary Fiction. It was a finalist for the People’s Book Prize 2016.
+ 
+You can [buy it in paperback](http://www.amazon.co.uk/The-Art-Letting-Chloe-Banks/dp/191019820X/)
+or [buy for kindle](http://www.amazon.co.uk/The-Art-Letting-Chloe-Banks-ebook/dp/B00LZRKK9S/).
+
+----
+
+<img class="cover-image" alt="The Art of Letting Go Cover" src="/img/taolg-cover.jpg" />
 
 *Imagine if the person you hated most in the world was lying in a coma.*
 

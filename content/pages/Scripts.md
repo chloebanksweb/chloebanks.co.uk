@@ -1,11 +1,22 @@
 ---
-navclass: Scripts
+title: Scripts
+url: "/scripts"
+navclass: scripts
 
 ---
-In 2020 I decided to do something I've wanted to do for a long time and have a dabble at writing some scripts. I grew up going to the theatre and I love listening to radio drama so it feels a natural place for me to hang out.
 
-My first script was an adaptation of my flash fiction story, EXCHANGE RATE, first published at Ellipsis Zine. This short monologue was performed for me by the wonderful Emma Stansfield (Coronation Street, Jamie Johnson). You can watch it [here](https://www.youtube.com/watch?v=ZSZz-GFTqDI&t=4s).
-
-My first 10-minute stage play, DATING WITH DOSTOYEVSKY, was one of the winners of [Pint-Sized Plays](https://pintsizedplays.org.uk/) 2020 competition. As Tenby Art Festival is not being held this year, the six winning plays are going to be filmed and put on YouTube, so watch this space!
-
-My second short stage play, SCREEN TEST, was selected by[ Muck and Rumble](https://www.muckandrumble.co.uk/tellingtales) for their 'Telling Tales' event, raising money for Roald Dahl's Marvellous Children's Charity. It was directed by [Antony Eden](https://twitter.com/AntonyEdenSays) (The Woman in Black, Harry Potter and the Cursed Child) and starred [Julia Hills](https://twitter.com/julia_hills) (Who Dares Wins, 2Point4 Children, Dad). You can watch it [here ](https://www.youtube.com/watch?time_continue=662&v=nX059EwW5Qg&feature=emb_logo)(and do please donate if you can - link under the video!)
+In 2020, Chloe wrote her first play scripts. She started by adapting her flash
+story, _Exchange Rate_ (Ellipsis Zine, 2019) into a monologue, which was
+performed by the fabulous Emma Stansfield (Coronation Street, Jamie Johnson).
+You can [view it here](https://www.youtube.com/watch?v=ZSZz-GFTqDI&t).
+ 
+Chloe’s first ten-minute play, _Dating With Dostoyevsky_, was one of the six
+winners of the Pint-Sized Plays competition. Then another, _Screen Test_, was
+selected by Antony Eden (The Woman in Black, Harry Potter and the Cursed Child)
+to produce, starring Julia Hills (Who Dares Wins, 2Point4 Children, The Archers)
+for Muck and Rumble, in aid of the Roald Dahl’s Marvellous Children’s Charity.
+You can [view Julia’s wonderful performance of it
+here](https://www.youtube.com/watch?v=nX059EwW5Qg&t=662s).
+ 
+Since then I have been working on my first full-length stage plays and trying to
+read and learn all I can about the art of writing them!

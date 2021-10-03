@@ -1,38 +1,36 @@
 {{ $page := . }}
 {{ template "partials/header.html" . }}
+
 <body lang="en" class="page {{ .Params.navclass }}">
-{{ template "partials/nav.html" . }}
-<div id="main-wrap">
+  {{ template "partials/nav.html" . }}
+  <div id="main-wrap">
     <section id="main">
-        <article id="content">
-            <h1 id="title">{{ .Title }}</h1>
-            <div class="post-meta">
-              {{ dateFormat .Site.Params.DateForm .Date }}
-              {{ if .Params.tags }}
-              <span class="post-tags">Tags:
-                {{ delimit (apply .Params.tags "partial" "tag-link" ".") ", " }}
-              </span>
+      <article id="content">
+        <h1 id="title">{{ .Title }}</h1>
+        <div class="post-meta">
+          {{ dateFormat .Site.Params.DateForm .Date }}
+          {{ if .Params.tags }}
+          <span class="post-tags">Tags:
+            {{ delimit (apply .Params.tags "partial" "tag-link" ".") ", " }}
+          </span>
+          {{ end }}
+        </div>
+
+        {{ if .Params.Series }}
+        <div class="post-series">
+          <h3>{{ .Params.series }} Series</h3>
+          <ol>
+            {{ range (index .Site.Taxonomies.series (.Params.series | urlize)).Pages.Reverse }}
+            <li{{ if eq .UniqueID $page.UniqueID }} class="current" {{ end }}>
+              <a href="{{ .Permalink }}">{{ .Title }}</a>
+              </li>
               {{ end }}
-            </div>
+          </ol>
+        </div>
+        {{ end }}
 
-            {{ if .Params.Series }}
-              <div class="post-series">
-                <h3>{{ .Params.series }} Series</h3>
-                <ol>
-                  {{ range (index .Site.Taxonomies.series (.Params.series | urlize)).Pages.Reverse }}
-                    <li{{ if eq .UniqueID $page.UniqueID }} class="current"{{ end }}>
-                        <a href="{{ .Permalink }}">{{ .Title }}</a>
-                    </li>
-                  {{ end }}
-                </ol>
-              </div>
-            {{ end }}
-
-            {{ .Content }}
-        </article>
+        {{ .Content }}
+      </article>
     </section>
-    <section class="comments">
-      {{ partial "disqus-comments" . }}
-    </section>
-</div>
-{{ template "partials/footer.html" . }}
+  </div>
+  {{ template "partials/footer.html" . }}
