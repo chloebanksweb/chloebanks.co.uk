@@ -2,7 +2,6 @@
 title: The Story So Far
 url: "/about"
 navclass: about
-draft: true
 
 ---
 ![](/uploads/2021/10/03/banks-headshots-14.jpg)Hello! Thank you for wanting to know more about me. What to say?
