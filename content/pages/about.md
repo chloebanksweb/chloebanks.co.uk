@@ -4,7 +4,7 @@ url: "/about"
 navclass: about
 
 ---
-![](/uploads/2021/10/03/banks-headshots-14.jpg)Hello! Thank you for wanting to know more about me. What to say?
+Hello! Thank you for wanting to know more about me. What to say?
 
 Well, my first literary success came at the age of seven, with a five-page novel about a man trying to find his dog after it fell off a cliff. I followed this up a couple of years later by winning an award for a poem I wrote about my grandpa. After that it all went downhill.
 
