@@ -1,6 +1,5 @@
 backend:
-  name: github
-  repo: banks/chloebanks.co.uk
+  name: git-gateway
   branch: master
 publish_mode: editorial_workflow
 media_folder: "static/uploads" # Media files will be stored in the repo under static/images/uploads
