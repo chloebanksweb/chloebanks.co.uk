@@ -1,6 +1,7 @@
 backend:
   name: git-gateway
   branch: master
+site_url: https://chloebanks.co.uk
 publish_mode: editorial_workflow
 media_folder: "static/uploads" # Media files will be stored in the repo under static/images/uploads
 public_folder: "/uploads"
@@ -10,6 +11,7 @@ collections:
     folder: "content/posts"
     create: true
     slug: "{{slug}}"
+    preview_path: "/posts/{{slug}}"
     fields:
      - label: Navclass
        name: navclass
@@ -37,6 +39,7 @@ collections:
     folder: "content/pages"
     create: false
     slug: "{{slug}}"
+    preview_path: "/{{slug}}"
     fields:
      - label: Title
        name: title
