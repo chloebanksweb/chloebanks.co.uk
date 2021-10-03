@@ -1,7 +1,7 @@
 ---
 title: The Art of Letting Go
 url: "/the-art-of-letting-go"
-navclass: taolg
+navclass: books
 
 ---
 
