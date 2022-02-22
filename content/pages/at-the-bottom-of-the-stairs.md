@@ -10,10 +10,13 @@ _At the Bottom of the Stairs_ is a
 was shortlisted for the Bath Novella-in-Flash Award 2019 and made the top three
 in the Reflex Novella Award 2021.
  
-It is due to be published by [Reflex Press](https://www.reflex.press/) in early
+It is due to be published by [Reflex Press](https://www.reflex.press/) in April
 2022. Check back here for details!
 
 ----
+
+<img class="cover-image" alt="The Art of Letting Go Cover" src="/img/atbots-cover.jpg"
+      srcset="/img/atbots-cover-2x.jpg 2x, /img/atbots-cover-3x.jpg 3x" />
 
 Rachel is 10 years-old when a dog is rocketed into space. When she is 16,
 the first female astronaut orbits the earth. At 17, she falls in love with
