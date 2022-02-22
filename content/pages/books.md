@@ -15,6 +15,7 @@ the Stairs_](/at-the-bottom-of-the-stairs/).
   </a>
 
   <a href="/at-the-bottom-of-the-stairs/">
-    <div class="at-the-bottom-of-the-stairs">At the Bottom of the Stairs <span>Cover Coming Soon</span></div>
+    <img alt="At the Bottom of the Stairs" src="/img/atbots-cover.jpg"
+      srcset="/img/atbots-cover-2x.jpg 2x, /img/atbots-cover-3x.jpg 3x">
   </a>
 </div>
