@@ -17,4 +17,4 @@ As we approach publication day, I am in the No-Man's Land of being both terrifie
 
 "_It's a profound character study - its two main figures captured on the page with compassionate insight and skill. And it's a love-letter to language - such is the quality of her prose. Banks writes about the psychology of motherhood and womanhood with as much nuance as any writer I've encountered._" Michael Loveday
 
-So if you like tales of love and loss and gain and tree-climbing and female space explorers, do please take a look! You can even [read the first chapter for free]() on the publisher's website.
+So if you like tales of love and loss and gain and tree-climbing and female space explorers, do please take a look! You can even [read the first chapter for free](https://www.reflex.press/stories/everything-after-now-by-chloe-banks/) on the publisher's website.
