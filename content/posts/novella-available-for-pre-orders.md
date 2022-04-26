@@ -4,7 +4,6 @@ series: ''
 navclass: blog
 title: Novella Available for Pre-orders
 date: 2022-04-26T00:00:00+01:00
-draft: true
 
 ---
 My novella, _At the Bottom of the Stairs_, is now available for ordering from Reflex Press. Publication date is 10th May, but you can beat the rush by pre-ordering a paperback by clicking [HERE](https://www.reflex.press/product/at-the-bottom-of-the-stairs/). (An e-book version will be available after publication).
