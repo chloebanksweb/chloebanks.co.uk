@@ -15,6 +15,6 @@ PAT ran a competition for new one-act stage plays and I was so thrilled to be se
 
 My play was directed by Craig Legg and I just loved the whole process of working with him and Rebecca Marangos (Head of New Writing), and then seeing what the end result was. And the end result was fantastic! Being able to sit in the audience anonymously and listen to them gasp and laugh and fall silent in all the right places was a great experience (as was catching snatches of conversation in the bar afterwards about how much people had enjoyed it!)
 
-Everyone was so very kind and encouraging about my script. It has definitely given me a taste for more of the same! And, as it happens...
+Everyone was so very kind and encouraging about my script. It has definitely given me a taste for more of the same! And, as it happens, I'm very happy to announce that...
 
 My next live-performed play is a ten-minute short, DESK MONSTER - part of KDC Theatre's festival, [YOU, ME AND NOOR](https://www.kdctheatre.com/you-me-and-noor/), at the end of June.
