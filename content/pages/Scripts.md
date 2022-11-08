@@ -17,7 +17,6 @@ for Muck and Rumble, in aid of the Roald Dahl’s Marvellous Children’s Charit
 You can [view Julia’s wonderful performance of it
 here](https://www.youtube.com/watch?v=nX059EwW5Qg&t=662s).
 
-Since then Chloe has been working on her first full-length stage plays and trying to
-read and learn all she can about the art of writing them!
+Her first one-act play, _Human Resources_, was performed by Putney Community Theatre in May 2022. Her 10-minute play, _Desk Monster_, was performed as part of the KDC Theatre festival of new writing in June 2022.
 
-Her first one-act play, _Human Resources_, will be performed by Putney Community Theatre in May 2022.
+Since then Chloe has been working on her first full-length stage plays and short screen scripts, and trying to read and learn all she can about the art of writing them!
