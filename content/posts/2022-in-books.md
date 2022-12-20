@@ -3,7 +3,7 @@ tags: []
 series: ''
 navclass: blog
 title: 2022 in Books
-date: 2022-12-20T13:37:19+00:00
+date: 2022-12-20T01:37:19+00:00
 
 ---
 In 2022 I read 39 books - mostly novels, but some non-fiction and collections as well - and I listened to 24 audiobooks. So which were my favourite?
