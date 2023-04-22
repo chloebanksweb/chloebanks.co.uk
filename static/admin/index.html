@@ -16,8 +16,8 @@
     var PostPreview = createClass({
       render: function () {
         var entry = this.props.entry;
-        return h('div', { "className": "main-wrap" },
-          h('section', { "className": "main" },
+        return h('div', { "className": "main-wrap preview-wrapper" },
+          h('section', { "id": "main" },
             h('article', { "className": "content" },
               h('h1', { "id": "title" }, entry.getIn(['data', 'title'])),
               h('div', { "className": "post-meta" },

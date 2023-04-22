@@ -1,4 +1,5 @@
-html, body {
+html,
+body {
     font-family: 'Alegreya Sans', 'sans-serif';
     font-weight: 300;
 }
@@ -7,18 +8,22 @@ body {
     background: url('/img/home_bg.png') repeat-x top #00a0b0;
 }
 
-h1, h3 {
+h1,
+h3 {
     font-family: 'Bitter', 'serif';
 }
+
 h1 {
     font-weight: 400;
 }
+
 #front h1,
 #top h1 {
     font-size: 105px;
     color: #fff;
     margin: 0;
 }
+
 h2 {
     font-family: 'Alegreya Sans', 'sans-serif';
     font-weight: 100;
@@ -40,6 +45,7 @@ h2 {
     background-color: #fff;
     margin: 0 auto;
 }
+
 #pic img {
     width: 200px;
     height: 200px;
@@ -69,6 +75,7 @@ h2 {
 #nav ul li a {
     font-family: 'Bitter', 'serif';
 }
+
 #intro ul li a {
     font-size: 28px;
     width: 200px;
@@ -96,16 +103,21 @@ strong {
     font-weight: 700;
 }
 
-a, a:link, a:visited, a:active {
+a,
+a:link,
+a:visited,
+a:active {
     color: #edc951;
     text-decoration: none;
 }
+
 a:hover {
     text-decoration: underline;
 }
 
 
-body.page {
+body.page,
+div.preview-wrapper {
     background-image: none;
     background-color: #fff;
 }
@@ -121,6 +133,7 @@ body.page {
     float: left;
     margin: 0 20px 0 0;
 }
+
 #nav #pic img {
     width: 100px;
     height: 100px;
@@ -168,6 +181,7 @@ body.page {
     height: 59px;
     float: left;
 }
+
 body.about #nav a.about,
 body.blog #nav a.news,
 body.books #nav a.books,
@@ -218,26 +232,32 @@ img.cover-image {
     margin: 0 auto 100px;
     text-align: center;
 }
+
 body.home-page #footer {
     opacity: 0.7;
     color: #fff;
 }
+
 body.home-page #footer:hover {
     opacity: 1;
 }
+
 #footer h2 {
     font-size: 32px;
     letter-spacing: -1px;
     margin: 0 0 10px 0;
 }
+
 body.home-page #footer h2 {
     color: #fff;
 }
+
 #footer input {
     padding: 3px;
     margin-left: 10px;
     color: #000;
 }
+
 #footer input.button {
     padding: 4px 10px;
     margin: 0;
@@ -247,38 +267,39 @@ body.home-page #footer h2 {
 
 /* Blog Styles */
 h3.post-title {
-  color: #000;
-  font-size: 2.3em;
-  font-weight: 400;
-  line-height: 1.1em;
-  margin-bottom: 0.2em;
-  margin-top: 1.5em;
-  padding-right: 3.2em;
+    color: #000;
+    font-size: 2.3em;
+    font-weight: 400;
+    line-height: 1.1em;
+    margin-bottom: 0.2em;
+    margin-top: 1.5em;
+    padding-right: 3.2em;
 }
+
 a:hover h3.post-title {
-  color: #666;
-  text-decoration: underline;
+    color: #666;
+    text-decoration: underline;
 }
 
 div.post-meta {
-  text-align: right;
-  color: #999;
-  margin-top: -30px;
+    text-align: right;
+    color: #999;
+    margin-top: -30px;
 }
 
 span.post-date {
-  display: block;
-  float: right;
-  margin-top: -2em;
-  color: #999;
+    display: block;
+    float: right;
+    margin-top: -2em;
+    color: #999;
 }
 
 span.post-tags {
-  float: left;
+    float: left;
 }
 
 article.post-summary {
-  margin: 0 0 4em;
+    margin: 0 0 4em;
 }
 
 div.posts-archive-link {
@@ -288,15 +309,16 @@ div.posts-archive-link {
     display: block;
     margin: 100px 0 0;
 }
-body.tag h1 {
-}
+
+body.tag h1 {}
+
 h1 span.tag-about {
-  color: #444;
-  font-size: 0.5em;
-  display: block;
-  font-family: 'Alegreya Sans', 'sans-serif';
-  font-weight: 100;
-  margin: 2em 0 0;
+    color: #444;
+    font-size: 0.5em;
+    display: block;
+    font-family: 'Alegreya Sans', 'sans-serif';
+    font-weight: 100;
+    margin: 2em 0 0;
 }
 
 article img {
@@ -306,48 +328,55 @@ article img {
 }
 
 body.archive h1 {
-  margin-top: 2em;
+    margin-top: 2em;
 }
 
 div.post-series {
-  float: right;
-  width: 300px;
-  background: #fafafa;
-  padding: 20px;
-  margin: 1em 0 1em 1em;
+    float: right;
+    width: 300px;
+    background: #fafafa;
+    padding: 20px;
+    margin: 1em 0 1em 1em;
 }
+
 div.post-series h3 {
-  margin: 0 0 0.5em;
-  color: #555;
-  font-weight: 100;
+    margin: 0 0 0.5em;
+    color: #555;
+    font-weight: 100;
 }
+
 div.post-series ol {
-  margin: 0;
+    margin: 0;
 }
+
 #main div.post-series li.current a {
-  color: #999;
-  font-style: italic;
+    color: #999;
+    font-style: italic;
 }
+
 body.blog #content img {
-  display: block;
-  float: right;
-  padding: 7px;
-  border: 1px solid #ddd;
-  margin: 1em 0 1em 1em;
-  max-width: 100%;
-  box-sizing: border-box;
+    display: block;
+    float: right;
+    padding: 7px;
+    border: 1px solid #ddd;
+    margin: 1em 0 1em 1em;
+    max-width: 100%;
+    box-sizing: border-box;
 }
+
 body.blog #content img.forestry--none {
-  float: none;
-  margin: 1em auto;
+    float: none;
+    margin: 1em auto;
 }
+
 body.blog #content img.forestry--right {
-  float: right;
-  margin: 1em 0 1em 1em;
+    float: right;
+    margin: 1em 0 1em 1em;
 }
+
 body.blog #content img.forestry--left {
-  float: left;
-  margin: 1em 1em 1em 0;
+    float: left;
+    margin: 1em 1em 1em 0;
 }
 
 section.comments {
@@ -358,10 +387,12 @@ section.comments {
 body.books .books {
     display: flex;
 }
+
 body.books .books a {
     flex: 1;
     margin-right: 20px;
 }
+
 body.books .at-the-bottom-of-the-stairs {
     border: 1px solid #ddd;
     box-sizing: border-box;
@@ -372,6 +403,7 @@ body.books .at-the-bottom-of-the-stairs {
     padding-top: 170px;
     text-align: center;
 }
+
 body.books .at-the-bottom-of-the-stairs span {
     font-size: 0.6em;
     display: block;
@@ -386,42 +418,47 @@ hr {
 /* Date List */
 
 h3.date-list-year {
-  margin: 2em 0 0;
-  font-size: 1.3em;
+    margin: 2em 0 0;
+    font-size: 1.3em;
 }
 
 h3.date-list-month {
-  float: left;
-  clear: left;
-  color: #555;
-  margin: 10px 0;
-  font-weight: 300;
-  font-family: 'Alegreya Sans', 'sans-serif';
+    float: left;
+    clear: left;
+    color: #555;
+    margin: 10px 0;
+    font-weight: 300;
+    font-family: 'Alegreya Sans', 'sans-serif';
 }
 
 ul.date-list-items {
-  list-style: none;
-  padding: 10px 0 10px 5.5em;
-  margin: 0;
+    list-style: none;
+    padding: 10px 0 10px 5.5em;
+    margin: 0;
 }
 
 span.date-list-day {
-  display: inline-block;
-  width: 4em;
-  text-align: right;
-  margin-right: 0.5em;
+    display: inline-block;
+    width: 4em;
+    text-align: right;
+    margin-right: 0.5em;
 }
 
 @media screen and (max-width: 960px) {
-    #main, #footer, section.comments {
+
+    #main,
+    #footer,
+    section.comments {
         width: 90%;
     }
+
     h3.post-title {
-      padding-right: 0;
+        padding-right: 0;
     }
+
     span.post-date {
-      float: none;
-      margin: 0;
+        float: none;
+        margin: 0;
     }
 
 }
@@ -430,18 +467,22 @@ span.date-list-day {
     #front h1 {
         font-size: 65px;
     }
+
     #front h2 {
         font-size: 45px;
     }
+
     #intro {
         width: 95%;
         margin: 0 auto;
     }
+
     #intro ul {
         float: none;
         text-align: left;
         padding: 0 15px;
     }
+
     #intro-text {
         margin: 0 auto;
         border: 0;
@@ -452,10 +493,12 @@ span.date-list-day {
         width: 95%;
         text-align: center;
     }
+
     #top #pic {
         float: none;
         margin: 10px auto;
     }
+
     #top h1 {
         font-size: 40px;
     }
@@ -469,43 +512,47 @@ span.date-list-day {
         text-align: left;
         height: 30px;
     }
+
     body.about #nav a.about,
     body.blog #nav a.news,
     body.books #nav a.books,
     body.scripts #nav a.scripts,
-    body.contact #nav a.contact{
+    body.contact #nav a.contact {
         background-image: none;
     }
+
     #menu {
         height: auto;
     }
+
     #footer h2 {
         font-size: 25px;
     }
+
     #main .cover-image {
         margin: 0 auto 15px;
         float: none;
     }
 
     #content div.post-series {
-      width: auto;
-      float: none;
-      margin: 1em 0;
+        width: auto;
+        float: none;
+        margin: 1em 0;
     }
 
 
     h3.date-list-month {
-      float: none;
+        float: none;
     }
 
     ul.date-list-items {
-      padding: 10px 0;
+        padding: 10px 0;
     }
 
     span.date-list-day {
-      width: auto;
-      text-align: left;
-      float: left;
-      clear: left;
+        width: auto;
+        text-align: left;
+        float: left;
+        clear: left;
     }
 }
