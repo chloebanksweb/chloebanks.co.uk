@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
   branch: master
-
+site_url: https://chloebanks.co.uk
 publish_mode: editorial_workflow
 media_folder: "static/uploads"
 public_folder: "/uploads"

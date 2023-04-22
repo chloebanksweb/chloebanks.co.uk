@@ -13,6 +13,25 @@
   <!-- Include the script that builds the page and powers Decap CMS -->
   <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
   <script>
+    var PostPreview = createClass({
+      render: function () {
+        var entry = this.props.entry;
+        return h('div', { "className": "main-wrap" },
+          h('section', { "className": "main" },
+            h('article', { "className": "content" },
+              h('h1', { "id": "title" }, entry.getIn(['data', 'title'])),
+              h('div', { "className": "post-meta" },
+                entry.getIn(['data', 'date'])
+              ),
+              this.props.widgetFor('body')
+            )
+          )
+        );
+      }
+    });
+
+    CMS.registerPreviewTemplate("posts", PostPreview);
+    CMS.registerPreviewTemplate("pages", PostPreview);
     CMS.registerPreviewStyle("/css/normalize.css");
     CMS.registerPreviewStyle("/css/main.css");
   </script>
