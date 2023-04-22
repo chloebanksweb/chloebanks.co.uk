@@ -23,7 +23,8 @@
               h('div', { "className": "post-meta" },
                 entry.getIn(['data', 'date'])
               ),
-              this.props.widgetFor('body')
+              this.props.widgetFor('body'),
+              h('div', { "className": "clear-block" })
             )
           )
         );

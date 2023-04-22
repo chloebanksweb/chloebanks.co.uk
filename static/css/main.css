@@ -546,3 +546,7 @@ span.date-list-day {
         clear: left;
     }
 }
+
+div.clear-block {
+    clear: both;
+}
