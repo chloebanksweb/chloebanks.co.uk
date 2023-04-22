@@ -359,7 +359,7 @@ div.post-series ol {
 }
 
 body.blog #content img,
-div.preview-wrappe #article img {
+div.preview-wrapper #article img {
     display: block;
     float: right;
     padding: 7px;
